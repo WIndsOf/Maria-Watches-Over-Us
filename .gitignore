@@ -6,3 +6,4 @@
 *.png
 
 **autosave_history/
+*.autosave
