@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Maria Watches Over Us S04E01 The School Festival is Shock².mkv
-Video File: Maria Watches Over Us S04E01 The School Festival is Shock².mkv
+Audio File: Maria Watches Over Us S04E01 The School Festival is Shock.mkv
+Video File: Maria Watches Over Us S04E01 The School Festival is Shock.mkv
 Video AR Mode: 2
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 67
-Active Line: 68
-Video Position: 3838
+Scroll Position: 92
+Active Line: 264
+Video Position: 30693
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,8 +114,8 @@ Dialogue: 0,0:02:53.31,0:02:58.69,Cartelli,,0,0,0,,{\bord4\blur4\fade(400,0)\an2
 Dialogue: 1,0:02:53.31,0:02:58.69,Cartelli,,0,0,0,,{\blur0.6\fade(400,0)\an2\fs55\fnBakerSignet BT\pos(960,760)\b1\c&HB0E6ED&}Rei Hasekura
 Dialogue: 0,0:02:53.31,0:02:58.69,Cartelli,,0,0,0,,{\bord4\blur4\fade(400,0)\an8\fs55\fnBakerSignet BT\pos(960,950)\b1\c&H072A4D&\3c&H072A4D&}(Rosa Foetida)
 Dialogue: 1,0:02:53.31,0:02:58.69,Cartelli,,0,0,0,,{\blur0.6\fade(400,0)\an8\fs55\fnBakerSignet BT\pos(960,950)\b1\c&HB0E6ED&}(Rosa Foetida)
-Comment: 0,0:03:01.70,0:03:02.79,Cartelli,,0,0,0,,{=0=1}Aegisub-Motion Trim: librosblurrato.mocha
-Dialogue: 0,0:03:01.70,0:03:01.74,Cartelli,,0,0,0,,{=0}{\blur6\fnBaar Sophia\fs38\an8\org(1408.5,581.4)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1264.14,992)}Letteratura classica \Ngiapponese 3a raccolta
+Comment: 0,0:03:01.70,0:03:02.79,Cartelli,,0,0,0,,{=0=26}Aegisub-Motion Trim: librosblurrato.mocha
+Dialogue: 0,0:03:01.70,0:03:01.74,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1408.5,581.4)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1264.14,992)}Letteratura classica \Ngiapponese 3a raccolta
 Dialogue: 0,0:03:01.74,0:03:01.78,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1408.51,581.4)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1264.15,992)}Letteratura classica \Ngiapponese 3a raccolta
 Dialogue: 0,0:03:01.78,0:03:01.82,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1408.52,581.39)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1264.16,991.99)}Letteratura classica \Ngiapponese 3a raccolta
 Dialogue: 0,0:03:01.82,0:03:01.86,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1423.74,561.18)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1279.38,971.78)}Letteratura classica \Ngiapponese 3a raccolta
@@ -140,7 +140,7 @@ Dialogue: 0,0:03:02.62,0:03:02.66,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs3
 Dialogue: 0,0:03:02.66,0:03:02.70,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1474.48,493.89)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1330.12,904.49)}Letteratura classica \Ngiapponese 3a raccolta
 Dialogue: 0,0:03:02.70,0:03:02.74,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1476.24,491.52)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1331.88,902.12)}Letteratura classica \Ngiapponese 3a raccolta
 Dialogue: 0,0:03:02.74,0:03:02.78,Cartelli,,0,0,0,,{=0}{\blur1\fnBaar Sophia\fs38\an8\org(1476.28,491.49)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1331.92,902.09)}Letteratura classica \Ngiapponese 3a raccolta
-Dialogue: 0,0:03:02.79,0:03:12.55,Cartelli,,0,0,0,,{=0=2}{\blur1\fnBaar Sophia\fs38\an8\org(1476.28,491.49)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1331.92,902.09)}Letteratura classica \Ngiapponese 3a raccolta
+Dialogue: 0,0:03:02.79,0:03:12.55,Cartelli,,0,0,0,,{=0=27}{\blur1\fnBaar Sophia\fs38\an8\org(1476.28,491.49)\fry-0.27\frx0.21\frz-18.63\c&H09090A&\pos(1331.92,902.09)}Letteratura classica \Ngiapponese 3a raccolta
 Dialogue: 1,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\fade(400,400)\an2\fs55\fnBakerSignet BT\b1\c&HA9DEEC&\pos(960,760)}Yumi Fukuzawa
 Dialogue: 0,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\bord6\blur8\fade(400,400)\an2\fs55\fnBakerSignet BT\b1\c&H072A4D&\3c&H072A4D&\pos(960,760)}Yumi Fukuzawa
 Dialogue: 0,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\bord4\blur5\fade(400,400)\an8\fs55\fnBakerSignet BT\b1\c&H072A4D&\pos(960,950)\3c&H072A4D&}(Rosa Chinensis en bouton)
@@ -711,9 +711,9 @@ Dialogue: 0,0:24:32.22,0:24:34.15,WOR,,0,0,0,,Mi chiedo che tipo di giorno sarà
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"87e8597c-7d53-44d7-b803-9a987ac1bead"#2C"originalText"#3A"{\\fnBaar Sophia\\fs38\\an8\\org(1408.5#2C581.4)\\fry-0.27\\frx0.21\\frz-18.63\\c&H09090A&\\b1\\3c&HA6BFC5&\\4c&HA6BFC5&\\pos(1264.14#2C992)\\4a&HFF&\\3a&HFF&}Letteratura classica \\Ngiapponese 3a raccolta"}
-Data: 1,_aegi_folddata,e0;1;1
-Data: 2,_aegi_folddata,e1;1;1
 Data: 16,_aegi_perspective_ambient_plane,e900.62;3.96#7C1628.32;210.63#7C1203.43;1196.28#7C444.64;919.94
 Data: 19,a-mo,e{"originalText"#3A"{\\fs40\\an7\\c&H545658&\\fnImpact\\fax-0.195489\\fscx100\\fscy100\\frz-16.1844\\frx1.8366\\fry-0.7885\\org(950.67#2C101.33)\\pos(897.12#2C42.38)}Festival scolastico dell'Istituto femminile Lillian\\N I Changeling Consiglio Yamayuri"#2C"uuid"#3A"51e8276c-073a-42cf-b14e-6e73b96e9ea6"}
 Data: 22,_aegi_folddata,e0;1;2
 Data: 23,_aegi_folddata,e1;1;2
+Data: 26,_aegi_folddata,e0;1;1
+Data: 27,_aegi_folddata,e1;1;1
