@@ -11,20 +11,18 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Maria Watches Over Us S04E01 The School Festival is Shock.mkv
-Video File: Maria Watches Over Us S04E01 The School Festival is Shock.mkv
-Video AR Mode: 2
+Audio File: Maria Watches Over Us S04E01 The School Festival is Shock².mkv
+Video File: Maria Watches Over Us S04E01 The School Festival is Shock².mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 92
-Active Line: 264
-Video Position: 30693
+Video Zoom Percent: 0.375000
+Active Line: 7
+Video Position: 35367
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ReSub,Trebuchet MS,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5.8,0,2,10,10,50,1
 Style: Default,Open Sans,72,&H00B5E2FC,&H0000FFFF,&H00001E31,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
-Style: WOR,Trebuchet MS,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,50,50,50,1
+Style: WOR,Trebuchet MS,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,50,50,50,1
 Style: Titoli Missione,Arno Pro,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,50,50,50,1
 Style: OP_JP,Baar Sophia,70,&H00FFFFFF,&H00ABDEE7,&H000D3350,&H6F000000,0,0,0,0,100,100,0,0,1,6,6,8,75,75,50,1
 Style: OP_ITA,Baar Sophia,70,&H00ABDEE7,&H00FFFFFF,&H000D3350,&H6F000000,0,0,0,0,100,100,0,0,1,6,6,2,75,75,50,1
@@ -34,70 +32,6 @@ Style: Cartelli,Arial,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:22:43.41,0:22:46.47,ED_ITA,,0,0,0,,A winterscape where even...
-Dialogue: 0,0:22:46.47,0:22:51.17,ED_ITA,,0,0,0,,...the town's colors seem forlorn somehow
-Dialogue: 0,0:22:51.41,0:22:55.64,ED_ITA,,0,0,0,,I think of you, turning your back on me...
-Dialogue: 0,0:22:55.64,0:22:58.95,ED_ITA,,0,0,0,,...and running off
-Dialogue: 0,0:22:59.92,0:23:03.96,ED_ITA,,0,0,0,,There's a clear square pane...
-Dialogue: 0,0:23:03.96,0:23:07.96,ED_ITA,,0,0,0,,...between the two of us
-Dialogue: 0,0:23:07.96,0:23:10.70,ED_ITA,,0,0,0,,It's misted over right now...
-Dialogue: 0,0:23:10.70,0:23:17.30,ED_ITA,,0,0,0,,...with the crystals of sighs
-Dialogue: 0,0:23:17.91,0:23:21.98,ED_ITA,,0,0,0,,Window glass, window glass
-Dialogue: 0,0:23:21.98,0:23:27.92,ED_ITA,,0,0,0,,It's clouded and I can't see you
-Dialogue: 0,0:23:27.92,0:23:33.82,ED_ITA,,0,0,0,,Even though I know that you're there
-Dialogue: 0,0:23:33.96,0:23:37.86,ED_ITA,,0,0,0,,Are you smiling? Are you crying?
-Dialogue: 0,0:23:37.86,0:23:43.87,ED_ITA,,0,0,0,,I don't even care if you're frowning, let me see you
-Dialogue: 0,0:23:43.87,0:23:52.33,ED_ITA,,0,0,0,,Wipe the glass from your side, too
-Dialogue: 0,0:22:43.41,0:22:46.47,ED_JP,,0,0,0,,{\k35}{\k23}Ma{\k29}chi {\k23}no {\k27}i{\k21}ro{\k26}do{\k17}ri {\k38}sa{\k18}e {\k26}do{\k23}ko
-Dialogue: 0,0:22:46.47,0:22:51.17,ED_JP,,0,0,0,,{\k39}{\k29}to {\k25}na{\k12}ku {\k39}sa{\k23}mi{\k78}shi{\k23}ge {\k22}na {\k20}fu{\k29}yu {\k55}no {\k17}ke{\k33}shi{\k26}ki
-Dialogue: 0,0:22:51.41,0:22:55.64,ED_JP,,0,0,0,,{\k52}{\k18}Se{\k26}na{\k42}ka {\k27}mi{\k33}se {\k42}ka{\k54}ke{\k55}te{\k49}i{\k25}tta
-Dialogue: 0,0:22:55.64,0:22:58.95,ED_JP,,0,0,0,,{\k49}a{\k26}na{\k55}ta {\k46}o {\k52}o{\k23}mo{\k80}u
-Dialogue: 0,0:22:59.92,0:23:03.96,ED_JP,,0,0,0,,{\k44}{\k24}Fu{\k32}ta{\k23}ri {\k26}no {\k55}a{\k40}i{\k59}da {\k45}ni {\k56}wa
-Dialogue: 0,0:23:03.96,0:23:07.96,ED_JP,,0,0,0,,{\k34}{\k109}tou{\k27}me{\k48}i {\k19}na {\k51}shi{\k33}ka{\k49}kke{\k30}i
-Dialogue: 0,0:23:07.96,0:23:10.70,ED_JP,,0,0,0,,{\k46}{\k21}I{\k30}ma {\k49}wa {\k14}ka{\k59}su{\k26}n{\k24}de{\k5}ru
-Dialogue: 0,0:23:10.70,0:23:17.30,ED_JP,,0,0,0,,{\k44}{\k52}ta{\k68}me{\k26}-i{\k32}ki {\k47}no {\k78}ke{\k99}ssho{\k25}u {\k189}de
-Dialogue: 0,0:23:17.91,0:23:21.98,ED_JP,,0,0,0,,{\k47}{\k23}Ma{\k27}do {\k26}ga{\k12}ra{\k115}su {\k22}ma{\k29}do {\k25}ga{\k11}ra{\k70}su
-Dialogue: 0,0:23:21.98,0:23:27.92,ED_JP,,0,0,0,,{\k21}{\k41}Ku{\k54}mo{\k24}tte{\k26}te {\k40}a{\k39}na{\k47}ta {\k51}ga {\k49}mi{\k49}e{\k50}na{\k51}i {\k52}no
-Dialogue: 0,0:23:27.92,0:23:33.82,ED_JP,,0,0,0,,{\k41}{\k22}So{\k37}ko {\k23}ni {\k24}i{\k50}ru {\k50}ko{\k55}to {\k47}wa {\k24}wa{\k77}ka{\k26}tte{\k25}i{\k21}ru {\k23}no {\k45}ni
-Dialogue: 0,0:23:33.96,0:23:37.86,ED_JP,,0,0,0,,{\k43}{\k28}Wa{\k24}ra{\k47}tte{\k99}ru {\k29}na{\k23}i{\k25}te{\k24}ru {\k48}no
-Dialogue: 0,0:23:37.86,0:23:43.87,ED_JP,,0,0,0,,{\k46}{\k23}Shi{\k37}ka{\k41}me{\k33}ttsu{\k47}ra {\k29}de{\k50}mo {\k32}i{\k64}i {\k53}ka{\k27}ra {\k40}mi{\k32}se{\k47}te
-Dialogue: 0,0:23:43.87,0:23:52.33,ED_JP,,0,0,0,,{\k47}{\k26}So{\k31}chi{\k50}ra {\k21}no {\k57}ho{\k24}u {\k49}ka{\k24}ra {\k118}mo {\k23}ga{\k59}ra{\k53}su {\k61}o {\k62}fui{\k141}te
-Dialogue: 0,0:00:38.15,0:00:44.82,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Apriamo una nuova mappa
-Dialogue: 1,0:00:38.15,0:00:44.82,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Apriamo una nuova mappa
-Dialogue: 0,0:00:45.89,0:00:51.80,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Andiamo a nascondere la cassa del tesoro
-Dialogue: 1,0:00:45.89,0:00:51.80,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Andiamo a nascondere la cassa del tesoro
-Dialogue: 0,0:00:52.00,0:00:59.87,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Non servono cappotti o cappelli
-Dialogue: 1,0:00:52.00,0:00:59.87,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Non servono cappotti o cappelli
-Dialogue: 0,0:00:59.97,0:01:07.54,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Armati solo delle mine di una matita
-Dialogue: 1,0:00:59.97,0:01:07.54,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Armati solo delle mine di una matita
-Dialogue: 0,0:01:08.08,0:01:10.88,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Giriamo, giriamo e giriamo ancora,
-Dialogue: 1,0:01:08.08,0:01:10.88,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Giriamo, giriamo e giriamo ancora,
-Dialogue: 0,0:01:10.95,0:01:14.85,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Proseguiamo
-Dialogue: 1,0:01:10.95,0:01:14.85,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Proseguiamo
-Dialogue: 0,0:01:15.66,0:01:17.79,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Giriamo, giriamo e giriamo ancora,
-Dialogue: 1,0:01:15.66,0:01:17.79,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Giriamo, giriamo e giriamo ancora,
-Dialogue: 0,0:01:17.79,0:01:22.75,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Le nostre impronte segnano la X
-Dialogue: 1,0:01:17.79,0:01:22.75,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Le nostre impronte segnano la X
-Dialogue: 0,0:01:23.20,0:01:29.73,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Attraversiamo le mura della scuola
-Dialogue: 1,0:01:23.20,0:01:29.73,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Attraversiamo le mura della scuola
-Dialogue: 0,0:01:29.80,0:01:38.04,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Possiamo andare ovunque, ci sarà sempre un sentiero
-Dialogue: 1,0:01:29.80,0:01:38.04,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Possiamo andare ovunque, ci sarà sempre un sentiero
-Dialogue: 0,0:01:38.14,0:01:45.24,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Le pieghe delle nostre gonne rimarranno intatte
-Dialogue: 1,0:01:38.14,0:01:45.24,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Le pieghe delle nostre gonne rimarranno intatte
-Dialogue: 0,0:01:45.35,0:01:52.55,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}È un viaggio segreto
-Dialogue: 1,0:01:45.35,0:01:52.55,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}È un viaggio segreto
-Dialogue: 0,0:00:38.15,0:00:44.82,OP_JP,,0,0,0,,{\k32}{\k36}Shi{\k49}ro{\k22}i {\k27}chi{\k73}zu {\k63}oo{\k33}ki{\k33}ku {\k58}hi{\k25}ro{\k216}ge
-Dialogue: 0,0:00:45.89,0:00:51.80,OP_JP,,0,0,0,,{\k29}{\k26}Ta{\k41}ka{\k31}ra{\k24}-ba{\k69}ko {\k25}ka{\k23}ku{\k45}shi {\k52}ni {\k44}i{\kf182}kou
-Dialogue: 0,0:00:52.00,0:00:59.87,OP_JP,,0,0,0,,{\k31}{\k30}Ko{\k21}o{\k48}to {\k46}na{\k48}n{\k47}te {\k47}i{\k69}ra{\k27}na{\k88}i {\k61}bou{\k55}shi {\k54}mo {\k115}ne
-Dialogue: 0,0:00:59.97,0:01:07.54,OP_JP,,0,0,0,,{\k32}{\k45}Sha{\k14}a{\k46}pen {\k82}no {\k25}shi{\k36}n {\k41}da{\k52}ke {\k43}ha{\k44}i{\kf297}te
-Dialogue: 0,0:01:08.08,0:01:10.88,OP_JP,,0,0,0,,{\k33}{\k26}Ku{\k19}ru{\k24}ru {\k29}ku{\k22}ru{\k22}ru {\k105}ku
-Dialogue: 0,0:01:10.95,0:01:14.85,OP_JP,,0,0,0,,{\k26}{\k19}ka{\k33}ke{\k21}nu{\k27}ke{\kf264}ru
-Dialogue: 0,0:01:15.66,0:01:17.79,OP_JP,,0,0,0,,{\k23}{\k36}Ku{\k19}ru{\k24}ru {\k29}ku{\k22}ru{\k22}ru {\k38}ku
-Dialogue: 0,0:01:17.79,0:01:22.75,OP_JP,,0,0,0,,{\k28}{\k13}a{\k29}shi{\k32}a{\k46}to {\k49}wa {\k42}ba{\k25}tsu{\k50}-ji{\k28}ru{\k68}shi {\k46}da {\k40}yo
-Dialogue: 0,0:01:23.20,0:01:29.73,OP_JP,,0,0,0,,{\k29}{\k102}Ko{\k74}u{\k65}sha {\k20}no {\k69}ka{\k43}be {\k105}tsu{\k43}ki{\k26}-nu{\k77}ke
-Dialogue: 0,0:01:29.80,0:01:38.04,OP_JP,,0,0,0,,{\k23}{\k31}Do{\k29}ko{\k22}ni{\k22}mo {\k50}i{\k24}ke{\k101}ru {\k55}so{\k34}ko {\k117}ni {\k41}mi{\k32}chi {\k45}ga {\k46}a{\kf152}ru
-Dialogue: 0,0:01:38.14,0:01:45.24,OP_JP,,0,0,0,,{\k39}{\k99}Su{\k67}ka{\k36}a{\k46}to {\k27}no {\k63}hi{\k52}da {\k46}mi{\k26}da{\k48}re{\k43}-na{\k118}i
-Dialogue: 0,0:01:45.35,0:01:52.55,OP_JP,,0,0,0,,{\k29}{\k31}Hi{\k23}mi{\k51}tsu {\k24}no {\k47}ta{\k49}bi {\kf209}na{\kf257}ra
 Dialogue: 0,0:02:23.99,0:02:30.08,Cartelli,,0,0,0,,{\bord4\blur4\fade(400,400)\an2\fs55\fnBakerSignet BT\c&H062948&\pos(960,760)\b1\3c&H062948&}Sachiko Ogasawara
 Dialogue: 1,0:02:23.99,0:02:30.08,Cartelli,,0,0,0,,{\blur0.6\fade(400,400)\an2\fs55\fnBakerSignet BT\c&HB0E6ED&\pos(960,760)\b1}Sachiko Ogasawara
 Dialogue: 0,0:02:23.99,0:02:30.08,Cartelli,,0,0,0,,{\bord4\blur4\fade(400,400)\an8\fs55\fnBakerSignet BT\c&H062948&\pos(960,950)\b1\3c&H062948&}(Rosa Chinensis)
@@ -279,6 +213,73 @@ Dialogue: 0,0:08:18.72,0:08:18.76,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7
 Dialogue: 0,0:08:18.76,0:08:18.81,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx100\fscy100\frz-16.18\frx1.8366\fry-0.7885\org(950.66,101.35)\pos(897.1,42.4)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
 Dialogue: 0,0:08:18.81,0:08:18.85,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx100\fscy100\frz-16.18\frx1.8366\fry-0.7885\org(950.67,101.33)\pos(897.12,42.38)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
 Dialogue: 0,0:08:18.85,0:08:29.03,Cartelli,,0,0,0,,{=16=23}{\fade(0,800)\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx100\fscy100\frz-16.1844\frx1.8366\fry-0.7885\org(950.67,101.33)\pos(897.12,42.38)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
+Dialogue: 0,0:03:33.03,0:03:37.89,Cartelli,,0,0,0,,{\an8\pos(981.34,344)}Il Festival della Scuola è in Shock²
+Dialogue: 0,0:24:05.09,0:24:35.12,Cartelli,,0,0,0,,{\an8\pos(333.33,30)}Anticipazioni
+Dialogue: 0,0:24:25.19,0:24:35.12,Cartelli,,0,0,0,,{\pos(1226.66,701.34)}Prossimo episodio: Un giorno ordinario senza nulla di speciale
+Dialogue: 0,0:22:43.41,0:22:46.47,ED_ITA,,0,0,0,,A winterscape where even...
+Dialogue: 0,0:22:46.47,0:22:51.17,ED_ITA,,0,0,0,,...the town's colors seem forlorn somehow
+Dialogue: 0,0:22:51.41,0:22:55.64,ED_ITA,,0,0,0,,I think of you, turning your back on me...
+Dialogue: 0,0:22:55.64,0:22:58.95,ED_ITA,,0,0,0,,...and running off
+Dialogue: 0,0:22:59.92,0:23:03.96,ED_ITA,,0,0,0,,There's a clear square pane...
+Dialogue: 0,0:23:03.96,0:23:07.96,ED_ITA,,0,0,0,,...between the two of us
+Dialogue: 0,0:23:07.96,0:23:10.70,ED_ITA,,0,0,0,,It's misted over right now...
+Dialogue: 0,0:23:10.70,0:23:17.30,ED_ITA,,0,0,0,,...with the crystals of sighs
+Dialogue: 0,0:23:17.91,0:23:21.98,ED_ITA,,0,0,0,,Window glass, window glass
+Dialogue: 0,0:23:21.98,0:23:27.92,ED_ITA,,0,0,0,,It's clouded and I can't see you
+Dialogue: 0,0:23:27.92,0:23:33.82,ED_ITA,,0,0,0,,Even though I know that you're there
+Dialogue: 0,0:23:33.96,0:23:37.86,ED_ITA,,0,0,0,,Are you smiling? Are you crying?
+Dialogue: 0,0:23:37.86,0:23:43.87,ED_ITA,,0,0,0,,I don't even care if you're frowning, let me see you
+Dialogue: 0,0:23:43.87,0:23:52.33,ED_ITA,,0,0,0,,Wipe the glass from your side, too
+Dialogue: 0,0:22:43.41,0:22:46.47,ED_JP,,0,0,0,,{\k35}{\k23}Ma{\k29}chi {\k23}no {\k27}i{\k21}ro{\k26}do{\k17}ri {\k38}sa{\k18}e {\k26}do{\k23}ko
+Dialogue: 0,0:22:46.47,0:22:51.17,ED_JP,,0,0,0,,{\k39}{\k29}to {\k25}na{\k12}ku {\k39}sa{\k23}mi{\k78}shi{\k23}ge {\k22}na {\k20}fu{\k29}yu {\k55}no {\k17}ke{\k33}shi{\k26}ki
+Dialogue: 0,0:22:51.41,0:22:55.64,ED_JP,,0,0,0,,{\k52}{\k18}Se{\k26}na{\k42}ka {\k27}mi{\k33}se {\k42}ka{\k54}ke{\k55}te{\k49}i{\k25}tta
+Dialogue: 0,0:22:55.64,0:22:58.95,ED_JP,,0,0,0,,{\k49}a{\k26}na{\k55}ta {\k46}o {\k52}o{\k23}mo{\k80}u
+Dialogue: 0,0:22:59.92,0:23:03.96,ED_JP,,0,0,0,,{\k44}{\k24}Fu{\k32}ta{\k23}ri {\k26}no {\k55}a{\k40}i{\k59}da {\k45}ni {\k56}wa
+Dialogue: 0,0:23:03.96,0:23:07.96,ED_JP,,0,0,0,,{\k34}{\k109}tou{\k27}me{\k48}i {\k19}na {\k51}shi{\k33}ka{\k49}kke{\k30}i
+Dialogue: 0,0:23:07.96,0:23:10.70,ED_JP,,0,0,0,,{\k46}{\k21}I{\k30}ma {\k49}wa {\k14}ka{\k59}su{\k26}n{\k24}de{\k5}ru
+Dialogue: 0,0:23:10.70,0:23:17.30,ED_JP,,0,0,0,,{\k44}{\k52}ta{\k68}me{\k26}-i{\k32}ki {\k47}no {\k78}ke{\k99}ssho{\k25}u {\k189}de
+Dialogue: 0,0:23:17.91,0:23:21.98,ED_JP,,0,0,0,,{\k47}{\k23}Ma{\k27}do {\k26}ga{\k12}ra{\k115}su {\k22}ma{\k29}do {\k25}ga{\k11}ra{\k70}su
+Dialogue: 0,0:23:21.98,0:23:27.92,ED_JP,,0,0,0,,{\k21}{\k41}Ku{\k54}mo{\k24}tte{\k26}te {\k40}a{\k39}na{\k47}ta {\k51}ga {\k49}mi{\k49}e{\k50}na{\k51}i {\k52}no
+Dialogue: 0,0:23:27.92,0:23:33.82,ED_JP,,0,0,0,,{\k41}{\k22}So{\k37}ko {\k23}ni {\k24}i{\k50}ru {\k50}ko{\k55}to {\k47}wa {\k24}wa{\k77}ka{\k26}tte{\k25}i{\k21}ru {\k23}no {\k45}ni
+Dialogue: 0,0:23:33.96,0:23:37.86,ED_JP,,0,0,0,,{\k43}{\k28}Wa{\k24}ra{\k47}tte{\k99}ru {\k29}na{\k23}i{\k25}te{\k24}ru {\k48}no
+Dialogue: 0,0:23:37.86,0:23:43.87,ED_JP,,0,0,0,,{\k46}{\k23}Shi{\k37}ka{\k41}me{\k33}ttsu{\k47}ra {\k29}de{\k50}mo {\k32}i{\k64}i {\k53}ka{\k27}ra {\k40}mi{\k32}se{\k47}te
+Dialogue: 0,0:23:43.87,0:23:52.33,ED_JP,,0,0,0,,{\k47}{\k26}So{\k31}chi{\k50}ra {\k21}no {\k57}ho{\k24}u {\k49}ka{\k24}ra {\k118}mo {\k23}ga{\k59}ra{\k53}su {\k61}o {\k62}fui{\k141}te
+Dialogue: 0,0:00:38.15,0:00:44.82,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Apriamo una nuova mappa
+Dialogue: 1,0:00:38.15,0:00:44.82,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Apriamo una nuova mappa
+Dialogue: 0,0:00:45.89,0:00:51.80,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Andiamo a nascondere la cassa del tesoro
+Dialogue: 1,0:00:45.89,0:00:51.80,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Andiamo a nascondere la cassa del tesoro
+Dialogue: 0,0:00:52.00,0:00:59.87,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Non servono cappotti o cappelli
+Dialogue: 1,0:00:52.00,0:00:59.87,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Non servono cappotti o cappelli
+Dialogue: 0,0:00:59.97,0:01:07.54,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Armati solo delle mine di una matita
+Dialogue: 1,0:00:59.97,0:01:07.54,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Armati solo delle mine di una matita
+Dialogue: 0,0:01:08.08,0:01:10.88,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Giriamo, giriamo e giriamo ancora,
+Dialogue: 1,0:01:08.08,0:01:10.88,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Giriamo, giriamo e giriamo ancora,
+Dialogue: 0,0:01:10.95,0:01:14.85,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Proseguiamo
+Dialogue: 1,0:01:10.95,0:01:14.85,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Proseguiamo
+Dialogue: 0,0:01:15.66,0:01:17.79,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Giriamo, giriamo e giriamo ancora,
+Dialogue: 1,0:01:15.66,0:01:17.79,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Giriamo, giriamo e giriamo ancora,
+Dialogue: 0,0:01:17.79,0:01:22.75,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Le nostre impronte segnano la X
+Dialogue: 1,0:01:17.79,0:01:22.75,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Le nostre impronte segnano la X
+Dialogue: 0,0:01:23.20,0:01:29.73,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Attraversiamo le mura della scuola
+Dialogue: 1,0:01:23.20,0:01:29.73,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Attraversiamo le mura della scuola
+Dialogue: 0,0:01:29.80,0:01:38.04,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Possiamo andare ovunque, ci sarà sempre un sentiero
+Dialogue: 1,0:01:29.80,0:01:38.04,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Possiamo andare ovunque, ci sarà sempre un sentiero
+Dialogue: 0,0:01:38.14,0:01:45.24,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}Le pieghe delle nostre gonne rimarranno intatte
+Dialogue: 1,0:01:38.14,0:01:45.24,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}Le pieghe delle nostre gonne rimarranno intatte
+Dialogue: 0,0:01:45.35,0:01:52.55,OP_ITA,,0,0,0,,{\blur0.7\c&H0D3350&}È un viaggio segreto
+Dialogue: 1,0:01:45.35,0:01:52.55,OP_ITA,,0,0,0,,{\bord0\blur0.7\shad6\4a&HFF&}È un viaggio segreto
+Dialogue: 0,0:00:38.15,0:00:44.82,OP_JP,,0,0,0,,{\k32}{\k36}Shi{\k49}ro{\k22}i {\k27}chi{\k73}zu {\k63}oo{\k33}ki{\k33}ku {\k58}hi{\k25}ro{\k216}ge
+Dialogue: 0,0:00:45.89,0:00:51.80,OP_JP,,0,0,0,,{\k29}{\k26}Ta{\k41}ka{\k31}ra{\k24}-ba{\k69}ko {\k25}ka{\k23}ku{\k45}shi {\k52}ni {\k44}i{\kf182}kou
+Dialogue: 0,0:00:52.00,0:00:59.87,OP_JP,,0,0,0,,{\k31}{\k30}Ko{\k21}o{\k48}to {\k46}na{\k48}n{\k47}te {\k47}i{\k69}ra{\k27}na{\k88}i {\k61}bou{\k55}shi {\k54}mo {\k115}ne
+Dialogue: 0,0:00:59.97,0:01:07.54,OP_JP,,0,0,0,,{\k32}{\k45}Sha{\k14}a{\k46}pen {\k82}no {\k25}shi{\k36}n {\k41}da{\k52}ke {\k43}ha{\k44}i{\kf297}te
+Dialogue: 0,0:01:08.08,0:01:10.88,OP_JP,,0,0,0,,{\k33}{\k26}Ku{\k19}ru{\k24}ru {\k29}ku{\k22}ru{\k22}ru {\k105}ku
+Dialogue: 0,0:01:10.95,0:01:14.85,OP_JP,,0,0,0,,{\k26}{\k19}ka{\k33}ke{\k21}nu{\k27}ke{\kf264}ru
+Dialogue: 0,0:01:15.66,0:01:17.79,OP_JP,,0,0,0,,{\k23}{\k36}Ku{\k19}ru{\k24}ru {\k29}ku{\k22}ru{\k22}ru {\k38}ku
+Dialogue: 0,0:01:17.79,0:01:22.75,OP_JP,,0,0,0,,{\k28}{\k13}a{\k29}shi{\k32}a{\k46}to {\k49}wa {\k42}ba{\k25}tsu{\k50}-ji{\k28}ru{\k68}shi {\k46}da {\k40}yo
+Dialogue: 0,0:01:23.20,0:01:29.73,OP_JP,,0,0,0,,{\k29}{\k102}Ko{\k74}u{\k65}sha {\k20}no {\k69}ka{\k43}be {\k105}tsu{\k43}ki{\k26}-nu{\k77}ke
+Dialogue: 0,0:01:29.80,0:01:38.04,OP_JP,,0,0,0,,{\k23}{\k31}Do{\k29}ko{\k22}ni{\k22}mo {\k50}i{\k24}ke{\k101}ru {\k55}so{\k34}ko {\k117}ni {\k41}mi{\k32}chi {\k45}ga {\k46}a{\kf152}ru
+Dialogue: 0,0:01:38.14,0:01:45.24,OP_JP,,0,0,0,,{\k39}{\k99}Su{\k67}ka{\k36}a{\k46}to {\k27}no {\k63}hi{\k52}da {\k46}mi{\k26}da{\k48}re{\k43}-na{\k118}i
+Dialogue: 0,0:01:45.35,0:01:52.55,OP_JP,,0,0,0,,{\k29}{\k31}Hi{\k23}mi{\k51}tsu {\k24}no {\k47}ta{\k49}bi {\kf209}na{\kf257}ra
 Dialogue: 1,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\bord120\fs80\fade(500,0)\fry0.13\frx-0.58\an8\org(979,916)\frz332.6\c&H3C3D3A&\3c&HE8EFE8&\4c&HE8EFE8&\b1\clip(m 1531 484 l 1752 604 1916 283 1915 0 1779 0)\pos(1393.33,-53.67)} Piccole \NDonne
 Dialogue: 0,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\bord120\fs80\fade(500,0)\fry0.13\frx-0.58\an8\frz332.6\pos(1391.333,-96.333)\c&H3C3D3A&\3c&HE8EFE8&\4c&HE8EFE8&\b1\clip(m 1531 484 l 1752 604 1916 283 1947 -3 1779 0)\org(1363,774.666)}{\c&HE8EFE8&}cfvfv
 Dialogue: 0,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\bord120\fs80\fade(500,0)\fry0.13\frx-0.58\an8\frz332.6\c&H3C3D3A&\3c&HE8EFE8&\4c&HE8EFE8&\b1\clip(m 1531 484 l 1752 604 1916 283 1947 -3 1779 0)\org(1378.999,804)\pos(1508,375.667)}{\c&HE8EFE8&}cfv
@@ -304,69 +305,64 @@ Dialogue: 0,0:00:33.69,0:00:38.07,Titoli Missione,,0,0,0,,{\blur0.6\be1\c&H00000
 Dialogue: 1,0:00:33.69,0:00:38.07,Titoli Missione,,0,0,0,,{\bord0\blur0.6\be1\4a&HFF&}{\bord0\fade(500,1000)\fnBernadette\pos(954,322)\c&H601530&}Maria Watches Over Us
 Dialogue: 0,0:00:46.00,0:00:50.21,Titoli Missione,,0,0,0,,{\fade(500,500)\bord5\fs50\pos(540,706)\4c&H000000&\3c&H0A294C&\c&HA9DAE5&}Traduzione:                  Cristofer
 Dialogue: 0,0:00:59.59,0:01:04.43,Titoli Missione,,0,0,0,,{\fade(500,500)\bord5\fs50\4c&H000000&\3c&H0A294C&\c&HA9DAE5&\pos(550,574)}Check:        Leo, PingWer, Panna
+Dialogue: 0,0:02:37.17,0:02:41.04,Titoli Missione,,0,0,0,,{\an8\c&HFF1C00&}En bouton = in fiore
+Dialogue: 0,0:02:43.11,0:02:47.08,Titoli Missione,,0,0,0,,{\an8\c&HFF1C00&}soeur = sorella
 Dialogue: 0,0:00:01.98,0:00:04.46,WOR,,0,0,0,,{\i1}Le fanciulle che affollano il giardino di Maria-sama,
-Dialogue: 0,0:00:04.75,0:00:09.41,WOR,,0,0,0,,{\i1}oggi varcano gli alti cancelli con sorrisi innocenti e angelici.
-Dialogue: 0,0:00:09.96,0:00:14.19,WOR,,0,0,0,,{\i1}I loro cuori e corpi puri sono vestiti con uniformi dai colori intensi.
-Dialogue: 0,0:00:14.79,0:00:17.70,WOR,,0,0,0,,{\i1}In modo che le pieghe delle loro gonne siano in ordine...
-Dialogue: 0,0:00:17.70,0:00:21.23,WOR,,0,0,0,,{\i1}...e affinché i loro colletti bianchi alla marinara siano perfetti,
+Dialogue: 0,0:00:04.75,0:00:09.41,WOR,,0,0,0,,{\i1}anche oggi varcano gli alti cancelli con sorrisi innocenti e angelici.
+Dialogue: 0,0:00:09.96,0:00:14.19,WOR,,0,0,0,,{\i1}I loro cuori e i loro corpi puri sono vestiti con uniformi dai colori intensi.
+Dialogue: 0,0:00:14.79,0:00:17.70,WOR,,0,0,0,,{\i1}Per fare in modo che le pieghe delle gonne non siano di disturbo...
+Dialogue: 0,0:00:17.70,0:00:21.23,WOR,,0,0,0,,{\i1}...e affinché i loro colletti bianchi alla marina non si agitino,
 Dialogue: 0,0:00:21.23,0:00:24.10,WOR,,0,0,0,,{\i1}è consuetudine camminare lentamente e con decoro.
-Dialogue: 0,0:00:24.90,0:00:26.50,WOR,,0,0,0,,{\i1}L'istituto femminile Lillian.
-Dialogue: 0,0:00:27.17,0:00:29.34,WOR,,0,0,0,,Il giardino delle fanciulle.
-Dialogue: 0,0:00:53.38,0:00:58.30,WOR,,0,0,0,,{\an1\fade(500,500)\bord5\fs50\4c&H000000&\3c&H0A294C&\c&HA9DAE5&\pos(200,786)}Typeset:      Erkon, PingWer, Medi
-Dialogue: 0,0:02:10.51,0:02:13.31,WOR,,0,0,0,,{\i1}Dopo il festival dello sport,
-Dialogue: 0,0:02:13.75,0:02:16.74,WOR,,0,0,0,,{\i1}durante la pausa pranzo prima della gita scolastica,
-Dialogue: 0,0:02:17.38,0:02:18.85,WOR,,0,0,0,,è iniziato il discorso
-Dialogue: 0,0:02:18.85,0:02:21.51,WOR,,0,0,0,, della mia cara sorella, la Rosa Chinensis.
-Dialogue: 0,0:02:24.46,0:02:25.46,WOR,,0,0,0,,{\an8}Oh, sì.
-Dialogue: 0,0:02:25.89,0:02:28.06,WOR,,0,0,0,,{\an8}A proposito dello spettacolo per il festival scolastico...
-Dialogue: 0,0:02:28.06,0:02:30.55,WOR,,0,0,0,,{\an8}Quest'anno faremo i {\i1}Changeling.{è una creatura mitologica, non so quanto abbia senso. Lo usavano per spiegare l'autismo o cose del genere}
-Dialogue: 0,0:02:35.53,0:02:36.87,WOR,,0,0,0,,I {\i1}Changeling?
-Dialogue: 0,0:02:37.17,0:02:41.34,WOR,,0,0,0,,{\an8\c&HFFFFFF&\b0\i1\fs55}Rosa Foetida En bouton = Rosa profumata: bocciolo
-Dialogue: 0,0:02:37.18,0:02:41.04,WOR,,0,0,0,,{\i1\an8}A mormorarlo è stata Yoshino-san, la Rosa Foetida en bouton.
+Dialogue: 0,0:00:24.90,0:00:29.34,WOR,,0,0,0,,{\i1}L'Accademia femminile privata Lillian, un giardino di fanciulle.
+Dialogue: 0,0:02:10.51,0:02:13.31,WOR,,0,0,0,,{\i1}Ecco cosa è successo poco prima della gita scolastica,
+Dialogue: 0,0:02:13.75,0:02:16.74,WOR,,0,0,0,,{\i1}proprio durante la pausa pranzo dopo la fine del festival sportivo.
+Dialogue: 0,0:02:17.38,0:02:18.85,WOR,,0,0,0,,È iniziato tutto con il commento
+Dialogue: 0,0:02:18.85,0:02:21.51,WOR,,0,0,0,, della mia Onee-sama, Rosa Chinensis.
+Dialogue: 0,0:02:24.46,0:02:25.46,WOR,,0,0,0,,Ecco, quindi.
+Dialogue: 0,0:02:25.89,0:02:28.06,WOR,,0,0,0,,A proposito dello spettacolo per il festival scolastico...
+Dialogue: 0,0:02:28.06,0:02:30.83,WOR,,0,0,0,,Quest'anno interpretereremo il Torikaebaya Monogatari.{è una creatura mitologica, non so quanto abbia senso. Lo usavano per spiegare l'autismo o cose del genere}
+Dialogue: 0,0:02:35.53,0:02:36.87,WOR,,0,0,0,,Torikaebaya?
+Dialogue: 0,0:02:37.17,0:02:41.04,WOR,,0,0,0,,{\i1}A mormorarlo è stata Yoshino-san, la Rosa Foetida en bouton.
 Dialogue: 0,0:02:41.67,0:02:42.73,WOR,,0,0,0,,Oh...
-Dialogue: 0,0:02:43.11,0:02:45.11,WOR,,0,0,0,,{\i1}Le due che hanno parlato all'unisono sono soeurs da soli 3 mesi.
-Dialogue: 0,0:02:43.11,0:02:50.73,WOR,,0,0,0,,{\an8\c&HFFFFFF&\b0\i1\fs55}soeur = sorella
-Dialogue: 0,0:02:45.11,0:02:47.08,WOR,,0,0,0,,{\i1}Le due che hanno parlato all'unisono sono soeurs da soli 3 mesi.
+Dialogue: 0,0:02:43.11,0:02:47.08,WOR,,0,0,0,,{\i1}Le due che hanno parlato all'unisono sono soeur da soli 3 mesi.
 Dialogue: 0,0:02:47.51,0:02:50.75,WOR,,0,0,0,,{\i1}Shimako-san, la Rosa Gigantea, e la sua petite soeur, Noriko-chan.
 Dialogue: 0,0:02:51.25,0:02:52.74,WOR,,0,0,0,,In che senso "Oh"?
-Dialogue: 0,0:02:53.95,0:02:56.82,WOR,,0,0,0,,{\i1\an8}Quella che ha posto la domanda alle sorelle della Rosa Bianca...
-Dialogue: 0,0:02:56.82,0:02:58.62,WOR,,0,0,0,,{\i1\an8}era Rei-sama, la Rosa Foetida.
+Dialogue: 0,0:02:53.95,0:02:56.82,WOR,,0,0,0,,{\i1}Quella che ha posto la domanda alle sorelle della Rosa Bianca...
+Dialogue: 0,0:02:56.82,0:02:58.61,WOR,,0,0,0,,{\i1}era Rei-sama, la Rosa Foetida.
 Dialogue: 0,0:02:59.79,0:03:01.28,WOR,,0,0,0,,Cosa c'è?
 Dialogue: 0,0:03:02.53,0:03:05.53,WOR,,0,0,0,,Yumi-san, hai letto questo libro, giusto?
-Dialogue: 0,0:03:05.53,0:03:08.00,WOR,,0,0,0,,Sì, me l'ha detto la mia cara sorella, quindi...
+Dialogue: 0,0:03:05.53,0:03:08.00,WOR,,0,0,0,,Sì, me l'ha detto la mia Onee-sama, quindi...
 Dialogue: 0,0:03:08.30,0:03:09.14,WOR,,0,0,0,,Se non ricordo male,
 Dialogue: 0,0:03:09.14,0:03:10.84,WOR,,0,0,0,,la storia è quella di un fratello e di una sorella che...
-Dialogue: 0,0:03:10.84,0:03:12.44,WOR,,0,0,0,,...si assomigliano e si scambiano di posto...
-Dialogue: 0,0:03:12.44,0:03:12.90,WOR,,0,0,0,,...si assomigliano e si scambiano di posto...
+Dialogue: 0,0:03:10.84,0:03:12.90,WOR,,0,0,0,,...si assomigliano e si scambiano di posto...
 Dialogue: 0,0:03:13.64,0:03:14.50,WOR,,0,0,0,,Cosa?!
-Dialogue: 0,0:03:15.71,0:03:18.37,WOR,,0,0,0,,Mi dispiace per te, ma credo che sia tutto risolto.
+Dialogue: 0,0:03:15.71,0:03:18.37,WOR,,0,0,0,,Mi dispiace ma credo che ormai sia tutto deciso.
 Dialogue: 0,0:03:20.28,0:03:21.75,WOR,,0,0,0,,Onee-sama?!
-Dialogue: 0,0:03:22.25,0:03:25.88,WOR,,0,0,0,,Il piano è questo, quindi rassegnati, Yumi.
-Dialogue: 0,0:03:27.65,0:03:31.78,WOR,,0,0,0,,{\i1\an8}Fu così che si decise di fare la prova costume.
-Dialogue: 0,0:03:33.03,0:03:38.03,WOR,,0,0,0,,{\fs60\an8\s0\fnDejaVu Serif Condensed\c&HAEDDED&\3c&H042645&\4c&H042645&\pos(981.334,378)}Il Festival della Scuola è in Shock²
+Dialogue: 0,0:03:22.25,0:03:25.88,WOR,,0,0,0,,Il piano è ormai questo, fattene pure una ragione, Yumi.
+Dialogue: 0,0:03:27.65,0:03:31.78,WOR,,0,0,0,,{\i1}Fu così che si decise di fare la prova costume.
 Dialogue: 0,0:03:43.47,0:03:45.27,WOR,,0,0,0,,{\i1}Per le feste scolastiche alla Lillian,
-Dialogue: 0,0:03:45.27,0:03:48.74,WOR,,0,0,0,,{\i1}gli studenti della nostra vicina scuola maschile, l'Istituto Hanadera,
+Dialogue: 0,0:03:45.27,0:03:48.74,WOR,,0,0,0,,{\i1}gli studenti della scuola maschile vicina a noi, l'Accademia Hanadera,
 Dialogue: 0,0:03:48.74,0:03:51.11,WOR,,0,0,0,,{\i1}vengono sempre ad aiutarci ogni anno.
 Dialogue: 0,0:03:52.28,0:03:55.45,WOR,,0,0,0,,{\i1}E all'Hanadera, mio fratello minore Yuki, che mi assomiglia molto,
 Dialogue: 0,0:03:55.45,0:03:58.11,WOR,,0,0,0,,{\i1}è il presidente del consiglio studentesco.
-Dialogue: 0,0:04:00.65,0:04:03.26,WOR,,0,0,0,,Sei così fortunato! Hai la possibilità di interpretare un ruolo femminile!
-Dialogue: 0,0:04:03.26,0:04:05.46,WOR,,0,0,0,,Ti invidio, Yukichi.
-Dialogue: 0,0:04:05.46,0:04:06.86,WOR,,0,0,0,,Non è un ruolo femminile.
-Dialogue: 0,0:04:06.96,0:04:09.72,WOR,,0,0,0,,Devo solamente scambiarmi con la sorella maggiore.
+Dialogue: 0,0:04:00.65,0:04:03.26,WOR,,0,0,0,,Aaah che bello che interpreti una ragazza!
+Dialogue: 0,0:04:03.26,0:04:05.46,WOR,,0,0,0,,Ti invidio molto, Yukichi.
+Dialogue: 0,0:04:05.46,0:04:06.86,WOR,,0,0,0,,Non sono una ragazza.
+Dialogue: 0,0:04:06.96,0:04:09.72,WOR,,0,0,0,,Il mio ruolo è quello di vestirmi da donna per scambiarmi di posto con mia sorella.
 Dialogue: 0,0:04:10.20,0:04:11.82,WOR,,0,0,0,,Scusate l'attesa.
 Dialogue: 0,0:04:20.54,0:04:21.24,WOR,,0,0,0,,Oh, cielo.
 Dialogue: 0,0:04:21.24,0:04:22.07,WOR,,0,0,0,,Oh.
 Dialogue: 0,0:04:22.44,0:04:23.74,WOR,,0,0,0,,Bene, bene...
-Dialogue: 0,0:04:25.71,0:04:27.38,WOR,,0,0,0,,Le assomiglia davvero.
+Dialogue: 0,0:04:25.71,0:04:27.38,WOR,,0,0,0,,Allora si assomigliano davvero.
 Dialogue: 0,0:04:27.38,0:04:29.01,WOR,,0,0,0,,È fantastico!
 Dialogue: 0,0:04:39.39,0:04:41.92,WOR,,0,0,0,,Scusateci per il ritardo...
 Dialogue: 0,0:04:44.70,0:04:46.16,WOR,,0,0,0,,Oh, Kanako-chan.
 Dialogue: 0,0:04:46.67,0:04:48.20,WOR,,0,0,0,,Guarda. Cosa ne pensi?
-Dialogue: 0,0:04:48.20,0:04:50.26,WOR,,0,0,0,,Non è carina Yumi-chan?
-Dialogue: 0,0:04:54.84,0:04:57.61,WOR,,0,0,0,,Che scopo ha questo gioco di "trovare l'errore"?
-Dialogue: 0,0:04:57.61,0:04:58.08,WOR,,0,0,0,,Cosa?
+Dialogue: 0,0:04:48.20,0:04:50.26,WOR,,0,0,0,,Yumi-chan è carinissima eh?
+Dialogue: 0,0:04:54.84,0:04:57.61,WOR,,0,0,0,,Che scopo avrebbe questo "trova le differenze"?
+Dialogue: 0,0:04:57.61,0:04:58.08,WOR,,0,0,0,,Eh?
 Dialogue: 0,0:04:59.58,0:05:02.98,WOR,,0,0,0,,Oh, vedi, Kanako-chan, questo è...
-Dialogue: 0,0:05:04.92,0:05:09.98,WOR,,0,0,0,,Nessuno di voi dell'Hanadera ha conosciuto queste due persone, vero?
+Dialogue: 0,0:05:04.92,0:05:09.98,WOR,,0,0,0,,Voi dell'Hanadera non avete mai conosciuto loro due vero?
 Dialogue: 0,0:05:10.29,0:05:15.78,WOR,,0,0,0,,Ehm, sono le studentesse del primo anno Matsudaira Toko-chan e Hosokawa Kanako-chan.
 Dialogue: 0,0:05:17.03,0:05:20.13,WOR,,0,0,0,,Toko-chan è una lontana parente di Sachiko-sama...
 Dialogue: 0,0:05:20.13,0:05:22.12,WOR,,0,0,0,,...e Kanako-chan è una ragazza della sua stessa classe.
@@ -376,23 +372,23 @@ Dialogue: 0,0:05:28.04,0:05:29.41,WOR,,0,0,0,,Piacere di conoscervi.
 Dialogue: 0,0:05:30.54,0:05:33.44,WOR,,0,0,0,,Ora vorrei che anche voi vi cambiaste.
 Dialogue: 0,0:05:33.85,0:05:34.78,WOR,,0,0,0,,Sì, signora.
 Dialogue: 0,0:05:41.52,0:05:43.92,WOR,,0,0,0,,{\i1}Kanako-chan non sopporta molto gli uomini,
-Dialogue: 0,0:05:43.92,0:05:46.55,WOR,,0,0,0,,{\i1}per cui diventa un po' nervosa quando vede studenti maschi.
-Dialogue: 0,0:05:48.16,0:05:50.92,WOR,,0,0,0,,{\i1}Quando stavamo aiutando con il festival scolastico dell'Hanadera...
+Dialogue: 0,0:05:43.92,0:05:46.55,WOR,,0,0,0,,{\i1}per questo si innervosisce alla vista di studenti maschi.
+Dialogue: 0,0:05:48.16,0:05:50.92,WOR,,0,0,0,,{\i1}Quando abbiamo aiutato con il festival scolastico all'Hanadera...
 Dialogue: 0,0:05:51.93,0:05:54.23,WOR,,0,0,0,,Quindi odi gli uomini?
 Dialogue: 0,0:05:54.87,0:05:57.23,WOR,,0,0,0,,Li odio. Sono le creature più spregevoli del mondo.
-Dialogue: 0,0:05:58.20,0:06:00.87,WOR,,0,0,0,,Avrai anche tu un padre, no?
+Dialogue: 0,0:05:58.20,0:06:00.87,WOR,,0,0,0,,Anche tu avrai un padre, no?
 Dialogue: 0,0:06:01.07,0:06:02.17,WOR,,0,0,0,,Non ce l'ho.
 Dialogue: 0,0:06:02.27,0:06:04.51,WOR,,0,0,0,,Quell'uomo non è un padre per me.
 Dialogue: 0,0:06:04.51,0:06:05.24,WOR,,0,0,0,,Ma...
-Dialogue: 0,0:06:06.05,0:06:10.41,WOR,,0,0,0,,Yumi-sama, ti prego di rimanere per sempre un essere angelico.
-Dialogue: 0,0:06:12.05,0:06:15.65,WOR,,0,0,0,,Non mostrare mai interesse per gli sporchi uomini...
+Dialogue: 0,0:06:06.05,0:06:10.41,WOR,,0,0,0,,Yumi-sama, la prego di rimanere per sempre un essere angelico.
+Dialogue: 0,0:06:12.05,0:06:15.65,WOR,,0,0,0,,Non mostri mai interesse per quegli sporchi uomini...
 Dialogue: 0,0:06:16.36,0:06:19.81,WOR,,0,0,0,,{\i1}Da quel momento le cose tra noi sono diventate imbarazzanti.
 Dialogue: 0,0:06:23.80,0:06:26.77,WOR,,0,0,0,,Ok, per favore guardate da questa parte!
 Dialogue: 0,0:06:30.30,0:06:32.81,WOR,,0,0,0,,{\i1}Nonostante ciò, volevo comunque essere sua amica,
-Dialogue: 0,0:06:32.81,0:06:36.04,WOR,,0,0,0,,{\i1}così le ho fatto promettere di aiutarmi con il festival della scuola, ma...
+Dialogue: 0,0:06:32.81,0:06:36.04,WOR,,0,0,0,,{\i1}così le ho fatto promettere di aiutarmi con la festa della scuola, ma...
 Dialogue: 0,0:06:36.64,0:06:38.67,WOR,,0,0,0,,Ok, abbiamo finito.
-Dialogue: 0,0:06:39.68,0:06:43.92,WOR,,0,0,0,,{\i1}E colei che ha fatto una proposta che ha eliminato tali preoccupazioni...
-Dialogue: 0,0:06:43.92,0:06:45.68,WOR,,0,0,0,,{\i1}è stata, ancora una volta, la mia cara sorella.
+Dialogue: 0,0:06:39.68,0:06:43.92,WOR,,0,0,0,,{\i1}E colei che propose un qualcosa che destò ancora più preoccupazione...
+Dialogue: 0,0:06:43.92,0:06:45.68,WOR,,0,0,0,,{\i1}...fu, un'altra volta, Onee-sama.
 Dialogue: 0,0:06:50.46,0:06:54.95,WOR,,0,0,0,,Chi di voi ha memorizzato completamente le proprie battute?
 Dialogue: 0,0:06:57.40,0:06:58.29,WOR,,0,0,0,,Capisco.
 Dialogue: 0,0:06:58.90,0:07:02.13,WOR,,0,0,0,,Devo scusarmi con coloro che l'hanno fatto,
@@ -402,48 +398,46 @@ Dialogue: 0,0:07:08.04,0:07:09.84,WOR,,0,0,0,,Cosa?!
 Dialogue: 0,0:07:10.98,0:07:13.35,WOR,,0,0,0,,Sachiko, stai cambiando il copione?
 Dialogue: 0,0:07:13.35,0:07:16.44,WOR,,0,0,0,,No, useremo il copione così com'è.
 Dialogue: 0,0:07:17.08,0:07:19.21,WOR,,0,0,0,,Mi è venuta in mente un'idea ancora migliore.
-Dialogue: 0,0:07:20.69,0:07:23.75,WOR,,0,0,0,,Il casting dei ruoli maschili e femminili sarà completamente invertito.
-Dialogue: 0,0:07:25.16,0:07:27.76,WOR,,0,0,0,,Voglio fare lo spettacolo in modo che non solo i nostri protagonisti,
-Dialogue: 0,0:07:27.76,0:07:31.99,WOR,,0,0,0,,ma il nostro intero cast è composto da un doppio strato di changeling.
-Dialogue: 0,0:07:33.60,0:07:35.43,WOR,,0,0,0,,Potrò interpretare un ruolo femminile!
+Dialogue: 0,0:07:20.69,0:07:23.75,WOR,,0,0,0,,Gli attori dei ruoli maschili e femminili saranno completamente invertiti.
+Dialogue: 0,0:07:25.16,0:07:27.76,WOR,,0,0,0,,Vorrei uno spettacolo in cui non solo i nostri protagonisti,
+Dialogue: 0,0:07:27.76,0:07:31.99,WOR,,0,0,0,,ma l'intero cast sia composto da un doppio strato di camuffamento.
+Dialogue: 0,0:07:33.60,0:07:35.43,WOR,,0,0,0,,Potrò interpretare una ragazza!
 Dialogue: 0,0:07:36.03,0:07:38.43,WOR,,0,0,0,,Sarà il debutto di Toko in un ruolo maschile!
-Dialogue: 0,0:07:39.17,0:07:42.83,WOR,,0,0,0,,Penso sicuramente che sarà uno spettacolo interessante, ma...
+Dialogue: 0,0:07:39.17,0:07:42.83,WOR,,0,0,0,,Immagino sarà sicuramente uno spettacolo interessante, ma...
 Dialogue: 0,0:07:43.34,0:07:47.07,WOR,,0,0,0,,Non renderà le cose più difficili ai nostri due protagonisti?
 Dialogue: 0,0:07:47.55,0:07:48.44,WOR,,0,0,0,,Yuki-san.
 Dialogue: 0,0:07:48.88,0:07:49.82,WOR,,0,0,0,,Sì?
-Dialogue: 0,0:07:49.82,0:07:50.98,WOR,,0,0,0,,Sarà troppo difficile?
+Dialogue: 0,0:07:49.82,0:07:50.98,WOR,,0,0,0,,Dici sia troppo?
 Dialogue: 0,0:07:50.98,0:07:52.12,WOR,,0,0,0,,Cosa? No...
 Dialogue: 0,0:07:52.12,0:07:52.55,WOR,,0,0,0,,Cosa?!
-Dialogue: 0,0:07:52.92,0:07:54.28,WOR,,0,0,0,,Capisco. Sono contenta.
+Dialogue: 0,0:07:52.92,0:07:54.28,WOR,,0,0,0,,Meglio così.
 Dialogue: 0,0:07:54.62,0:07:56.45,WOR,,0,0,0,,Ehm, Rosa Chinensis?
-Dialogue: 0,0:07:56.92,0:07:59.59,WOR,,0,0,0,,Dovremmo controllare anche con Yumi-sama...
-Dialogue: 0,0:07:59.59,0:08:01.39,WOR,,0,0,0,,Yumi starà bene.
+Dialogue: 0,0:07:56.92,0:07:59.59,WOR,,0,0,0,,Dovremmo chiedere anche a Yumi-sama...
+Dialogue: 0,0:07:59.59,0:08:01.39,WOR,,0,0,0,,Yumi ce la farà.
 Dialogue: 0,0:08:01.63,0:08:02.89,WOR,,0,0,0,,O-Onee-sama?!
 Dialogue: 0,0:08:04.70,0:08:05.82,WOR,,0,0,0,,Puoi farcela.
 Dialogue: 0,0:08:10.10,0:08:12.23,WOR,,0,0,0,,Ma certo! Lo farò!
-Dialogue: 4,0:08:14.51,0:08:15.94,WOR,,0,0,0,,{\i1}"I Changeling" è stato scritto durante l'era Heian, e nella storia,
-Dialogue: 0,0:08:15.94,0:08:18.78,WOR,,0,0,0,,{\i1}"I Changeling" è stato scritto durante l'era Heian, e nella storia,
-Dialogue: 0,0:08:18.78,0:08:19.34,WOR,,0,0,0,,{\i1}il timido e giovane lord venne mandato a servire la corte come donna,
-Dialogue: 0,0:08:19.34,0:08:21.61,WOR,,0,0,0,,{\i1}il timido e giovane lord venne mandato a servire la corte come donna,
-Dialogue: 0,0:08:21.61,0:08:25.78,WOR,,0,0,0,,{\i1}mentre la vivace fanciulla venne mandata a servire come uomo.
-Dialogue: 0,0:08:26.52,0:08:30.49,WOR,,0,0,0,,{\i1}Le persone che li circondano vennero coinvolte in controversie a causa di ciò,
-Dialogue: 0,0:08:30.49,0:08:33.26,WOR,,0,0,0,,{\i1}ma alla fine la sorella maggiore e il fratello minore si scambiarono di posto...
-Dialogue: 0,0:08:33.26,0:08:35.95,WOR,,0,0,0,,...e furono per sempre felici e contenti.
-Dialogue: 0,0:08:39.60,0:08:42.19,WOR,,0,0,0,,Capisco, capisco, che evento gioioso.
+Dialogue: 0,0:08:14.51,0:08:18.78,WOR,,0,0,0,,{\i1}"Torikaebaya Monogatari" è stato scritto durante l'era Heian, e nella storia,
+Dialogue: 0,0:08:18.78,0:08:21.61,WOR,,0,0,0,,{\i1}il timido giovane lord viene mandato a servire la corte imperiale come donna,
+Dialogue: 0,0:08:21.61,0:08:25.78,WOR,,0,0,0,,{\i1}mentre la vivace fanciulla viene mandata a servire come uomo.
+Dialogue: 0,0:08:26.52,0:08:30.49,WOR,,0,0,0,,{\i1}Le persone che li circondano vengono coinvolte in controversie a causa di ciò,
+Dialogue: 0,0:08:30.49,0:08:33.26,WOR,,0,0,0,,{\i1}ma alla fine la sorella maggiore e il fratello minore si scambiano di posto...
+Dialogue: 0,0:08:33.26,0:08:35.95,WOR,,0,0,0,,...e sono per sempre felici e contenti.
+Dialogue: 0,0:08:39.60,0:08:42.19,WOR,,0,0,0,,Oh capisco, che evento gioioso.
 Dialogue: 0,0:08:42.77,0:08:46.31,WOR,,0,0,0,,Sia Dama Saisho che Dama Chunagon...
-Dialogue: 0,0:08:46.31,0:08:48.43,WOR,,0,0,0,,...hanno partorito i loro figli in modo sicuro.
+Dialogue: 0,0:08:46.31,0:08:48.43,WOR,,0,0,0,,...hanno partorito i loro figli in sicurezza.
 Dialogue: 0,0:08:50.58,0:08:52.88,WOR,,0,0,0,,Shimako, stai interpretando un uomo,
-Dialogue: 0,0:08:52.88,0:08:54.21,WOR,,0,0,0,,quindi comportati in modo più deciso.
+Dialogue: 0,0:08:52.88,0:08:54.21,WOR,,0,0,0,,quindi sii un po' più decisa.
 Dialogue: 0,0:08:54.21,0:08:54.70,WOR,,0,0,0,,Va bene.
 Dialogue: 0,0:08:55.51,0:08:58.65,WOR,,0,0,0,,Akimitsu-san e Tomomitsu-san, state interpretando delle donne,
-Dialogue: 0,0:08:58.65,0:09:00.91,WOR,,0,0,0,,quindi cercate di essere più femminili piuttosto che assumere posizioni così imponenti.
+Dialogue: 0,0:08:58.65,0:09:00.91,WOR,,0,0,0,,quindi invece di quelle pose cercate di essere più femminili.
 Dialogue: 0,0:09:04.46,0:09:05.65,WOR,,0,0,0,,{\i1}Ora capisco.
 Dialogue: 0,0:09:05.72,0:09:09.06,WOR,,0,0,0,,{\i1}È decisamente divertente scambiare i ruoli maschili e femminili.
-Dialogue: 0,0:09:09.36,0:09:10.73,WOR,,0,0,0,,{\i1}Questa sì che è la mia cara sorella.
+Dialogue: 0,0:09:09.36,0:09:10.73,WOR,,0,0,0,,{\i1}Questa sì che è la mia Onee-sama.
 Dialogue: 0,0:09:12.36,0:09:13.57,WOR,,0,0,0,,Fammi pensare...
 Dialogue: 0,0:09:13.57,0:09:14.43,WOR,,0,0,0,,Kanako-chan.
 Dialogue: 0,0:09:15.03,0:09:18.77,WOR,,0,0,0,,Potresti sembrare un po' più felice quando dici quelle parole?
-Dialogue: 0,0:09:18.77,0:09:20.74,WOR,,0,0,0,,Più felice, dici?
+Dialogue: 0,0:09:18.77,0:09:20.74,WOR,,0,0,0,,Sembrare più felice?
 Dialogue: 0,0:09:20.97,0:09:22.70,WOR,,0,0,0,,Sì, con un sorriso.
 Dialogue: 0,0:09:26.11,0:09:27.51,WOR,,0,0,0,,Bene, così.
 Dialogue: 0,0:09:27.71,0:09:30.74,WOR,,0,0,0,,Sono un uomo così fortunato.
@@ -454,72 +448,72 @@ Dialogue: 0,0:09:42.06,0:09:45.15,WOR,,0,0,0,,Capisco, capisco, che evento gioio
 Dialogue: 0,0:09:48.40,0:09:50.37,WOR,,0,0,0,,Presto sarà passato un anno.
 Dialogue: 0,0:09:50.37,0:09:50.97,WOR,,0,0,0,,Cosa?
 Dialogue: 0,0:09:50.97,0:09:52.74,WOR,,0,0,0,,La notte del festival scolastico è l'anniversario...
-Dialogue: 0,0:09:52.74,0:09:55.51,WOR,,0,0,0,,...di te che diventi la soeur di Sachiko-sama, giusto?
+Dialogue: 0,0:09:52.74,0:09:55.51,WOR,,0,0,0,,...di quando sei diventata seour di Sachiko-sama, giusto?
 Dialogue: 0,0:09:55.51,0:09:56.97,WOR,,0,0,0,,S-Sì...
-Dialogue: 0,0:10:11.69,0:10:12.68,WOR,,0,0,0,,Hai intenzione di fare qualcosa?
-Dialogue: 0,0:10:13.46,0:10:15.82,WOR,,0,0,0,,Cosa? Non ci ho minimamente pensato.
+Dialogue: 0,0:10:11.69,0:10:12.68,WOR,,0,0,0,,Farai qualcosa?
+Dialogue: 0,0:10:13.46,0:10:15.82,WOR,,0,0,0,,Eh? Non ci ho minimamente pensato.
 Dialogue: 0,0:10:16.03,0:10:19.29,WOR,,0,0,0,,Dopotutto, è un giorno speciale per voi due.
 Dialogue: 0,0:10:19.57,0:10:22.07,WOR,,0,0,0,,Dovresti supplicare come una matta Sachiko-sama...
 Dialogue: 0,0:10:22.07,0:10:24.00,WOR,,0,0,0,,...e fare in modo che sia un anniversario meraviglioso.
-Dialogue: 0,0:10:24.80,0:10:27.83,WOR,,0,0,0,,Supplicare è già di per sé un ostacolo molto grande, però.
+Dialogue: 0,0:10:24.80,0:10:27.83,WOR,,0,0,0,,Supplicarla è già di per sé un ostacolo molto grande.
 Dialogue: 0,0:10:28.74,0:10:30.97,WOR,,0,0,0,,Cosa rende un anniversario meraviglioso?
 Dialogue: 0,0:10:32.41,0:10:37.04,WOR,,0,0,0,,Cosa potrei chiederle di fare per rendere il giorno indimenticabile?
 Dialogue: 0,0:10:45.22,0:10:46.49,WOR,,0,0,0,,Cosa ne pensi?
-Dialogue: 0,0:10:47.49,0:10:48.72,WOR,,0,0,0,,Immagino che...
+Dialogue: 0,0:10:47.49,0:10:48.72,WOR,,0,0,0,,Beh ecco...
 Dialogue: 0,0:10:49.03,0:10:50.63,WOR,,0,0,0,,Non voglio farlo.
 Dialogue: 0,0:10:50.63,0:10:51.62,WOR,,0,0,0,,Cosa?
 Dialogue: 0,0:10:52.83,0:10:54.89,WOR,,0,0,0,,Non voglio partecipare allo spettacolo.
 Dialogue: 0,0:10:55.00,0:10:56.02,WOR,,0,0,0,,Kanako-chan...
-Dialogue: 0,0:10:57.20,0:11:00.24,WOR,,0,0,0,,Il solo fatto di doversi esibire accanto ai ragazzi è già abbastanza doloroso.
-Dialogue: 0,0:11:00.24,0:11:01.87,WOR,,0,0,0,,Ma dover interpretare un uomo...
+Dialogue: 0,0:10:57.20,0:11:00.24,WOR,,0,0,0,,Il solo fatto di doversi esibire accanto ai ragazzi è già abbastanza doloroso,
+Dialogue: 0,0:11:00.24,0:11:01.87,WOR,,0,0,0,,ma interpretare un uomo?
 Dialogue: 0,0:11:03.64,0:11:05.20,WOR,,0,0,0,,Li odi così tanto?
 Dialogue: 0,0:11:05.51,0:11:07.60,WOR,,0,0,0,,Mi dispiace. Non me ne ero resa conto.
 Dialogue: 0,0:11:08.78,0:11:11.58,WOR,,0,0,0,,E pensare che sono stata io a trascinarti per dare una mano...
-Dialogue: 0,0:11:12.25,0:11:16.65,WOR,,0,0,0,,Nonostante questo, voglio che tu sia partecipe dello spettacolo.
+Dialogue: 0,0:11:12.25,0:11:16.65,WOR,,0,0,0,,Nonostante questo, voglio che tu partecipi dello spettacolo.
 Dialogue: 0,0:11:17.39,0:11:18.55,WOR,,0,0,0,,Yumi-sama?
-Dialogue: 0,0:11:18.99,0:11:24.90,WOR,,0,0,0,,Sento che se tu dovessi smettere adesso, anch'io rimarrei con dei rimpianti.
+Dialogue: 0,0:11:18.99,0:11:24.90,WOR,,0,0,0,,Sento che se tu dovessi andartene proprio ora, dentro di me rimarrebbero dei rimpianti .
 Dialogue: 0,0:11:25.46,0:11:27.10,WOR,,0,0,0,,Me l'hai promesso, ricordi?
-Dialogue: 0,0:11:27.10,0:11:29.19,WOR,,0,0,0,,Che avresti aiutato con il festival della scuola?
+Dialogue: 0,0:11:27.10,0:11:29.19,WOR,,0,0,0,,Che avresti aiutato con il festival della scuola.
 Dialogue: 0,0:11:31.20,0:11:33.90,WOR,,0,0,0,,Vorrei non aver mai fatto quella promessa.
 Dialogue: 0,0:11:35.97,0:11:37.17,WOR,,0,0,0,,Kanako-chan!
-Dialogue: 0,0:11:39.34,0:11:40.04,WOR,,0,0,0,,Ti aiuterò.
+Dialogue: 0,0:11:39.34,0:11:40.04,WOR,,0,0,0,,Ti aiuto.
 Dialogue: 0,0:11:40.11,0:11:41.55,WOR,,0,0,0,,Oh, grazie.
-Dialogue: 0,0:11:44.12,0:11:46.58,WOR,,0,0,0,,{\i1}E il nostro primo anniversario è alle porte...
+Dialogue: 0,0:11:44.12,0:11:46.58,WOR,,0,0,0,,{\i1}Eppure il nostro primo anniversario è alle porte...
 Dialogue: 0,0:11:48.09,0:11:51.45,WOR,,0,0,0,,{\i1}Anche per Toko-chan si erano creati dei problemi.
 Dialogue: 0,0:11:57.30,0:12:00.06,WOR,,0,0,0,,Toko-chan si è ritirata dalla recita del club di teatro?!
 Dialogue: 0,0:12:01.27,0:12:04.07,WOR,,0,0,0,,Sì, sembra che ci sia stato un piccolo litigio...
 Dialogue: 0,0:12:04.07,0:12:05.47,WOR,,0,0,0,,Che litigio?
 Dialogue: 0,0:12:06.00,0:12:07.34,WOR,,0,0,0,,Non conosco i dettagli...
-Dialogue: 0,0:12:08.07,0:12:11.38,WOR,,0,0,0,,...ma credo che sarebbe difficile dire che non è collegato...
-Dialogue: 0,0:12:11.38,0:12:14.15,WOR,,0,0,0,,...alla sua partecipazione allo spettacolo del Consiglio Yamayuri.
-Dialogue: 0,0:12:14.15,0:12:17.12,WOR,,0,0,0,,Cioè sta danneggiando il suo rendimento nelle prove del club di teatro?
+Dialogue: 0,0:12:08.07,0:12:11.38,WOR,,0,0,0,,...ma è difficile pensare che non c'entri nulla con la sua parte...
+Dialogue: 0,0:12:11.38,0:12:14.15,WOR,,0,0,0,,...allo spettacolo del Consiglio Yamayuri.
+Dialogue: 0,0:12:14.15,0:12:17.12,WOR,,0,0,0,,Dici che la sta facendo peggiorare nelle prove del club di teatro?
 Dialogue: 0,0:12:17.42,0:12:18.54,WOR,,0,0,0,,Non lo so.
-Dialogue: 0,0:12:19.15,0:12:21.02,WOR,,0,0,0,,Ne hai parlato con la signora delle rose?
+Dialogue: 0,0:12:19.15,0:12:21.02,WOR,,0,0,0,,Ne hai parlato con le ragazze del consiglio?
 Dialogue: 0,0:12:21.42,0:12:22.51,WOR,,0,0,0,,Non ancora.
-Dialogue: 0,0:12:23.19,0:12:25.75,WOR,,0,0,0,,Mi scuso per venirti a parlare di un problema così vago.
-Dialogue: 0,0:12:25.92,0:12:29.03,WOR,,0,0,0,,Non c'è problema! Grazie per avermelo fatto sapere.
+Dialogue: 0,0:12:23.19,0:12:25.75,WOR,,0,0,0,,Scusami, sono venuta a parlarti di un problema così vago.
+Dialogue: 0,0:12:25.92,0:12:29.03,WOR,,0,0,0,,Nessun problema! Grazie per avermelo fatto sapere.
 Dialogue: 0,0:12:29.03,0:12:30.96,WOR,,0,0,0,,Stai andando alla villa delle rose, vero?
 Dialogue: 0,0:12:30.96,0:12:31.86,WOR,,0,0,0,,Andiamoci insieme.
 Dialogue: 0,0:12:31.86,0:12:32.69,WOR,,0,0,0,,Va bene.
-Dialogue: 0,0:12:36.20,0:12:38.93,WOR,,0,0,0,,Perché sono andata da Yumi-sama con questo?
+Dialogue: 0,0:12:36.20,0:12:38.93,WOR,,0,0,0,,Perché sono andata a dire queste cose a Yumi-sama?
 Dialogue: 0,0:12:45.58,0:12:46.88,WOR,,0,0,0,,Ecco a te.
 Dialogue: 0,0:12:46.88,0:12:47.85,WOR,,0,0,0,,Grazie.
 Dialogue: 0,0:12:48.48,0:12:51.78,WOR,,0,0,0,,Toko-chan, non dovresti essere al club di teatro oggi?
-Dialogue: 0,0:12:51.88,0:12:55.82,WOR,,0,0,0,,Le cose stanno andando bene laggiù, quindi abbiamo ottenuto un giorno di riposo speciale.
+Dialogue: 0,0:12:51.88,0:12:55.82,WOR,,0,0,0,,Lì sta procedendo tutto molto bene, quindi abbiamo ottenuto un giorno di riposo speciale.
 Dialogue: 0,0:12:55.82,0:12:58.36,WOR,,0,0,0,,Oh, ecco perché sei di buon umore.
-Dialogue: 0,0:12:58.36,0:12:59.82,WOR,,0,0,0,,Sembra che sia così?
+Dialogue: 0,0:12:58.36,0:12:59.82,WOR,,0,0,0,,Si vede così tanto?
 Dialogue: 0,0:13:01.46,0:13:04.00,WOR,,0,0,0,,Che invidia che le cose stiano procedendo bene.
 Dialogue: 0,0:13:04.00,0:13:04.96,WOR,,0,0,0,,Onee-sama...
-Dialogue: 0,0:13:05.40,0:13:08.83,WOR,,0,0,0,,Ora, una volta finito il tè, dobbiamo esercitarci.
+Dialogue: 0,0:13:05.40,0:13:08.83,WOR,,0,0,0,,Bene, una volta finito il tè, dobbiamo esercitarci anche noi.
 Dialogue: 0,0:13:09.20,0:13:11.47,WOR,,0,0,0,,Non possiamo permettere che il club di teatro ci superi!
 Dialogue: 0,0:13:20.01,0:13:23.62,WOR,,0,0,0,,Un giovane signore virile, pieno di talento!
 Dialogue: 0,0:13:23.62,0:13:27.18,WOR,,0,0,0,,Mi piacerebbe molto che uno come lui sposasse mia figlia.
-Dialogue: 0,0:13:28.25,0:13:33.02,WOR,,0,0,0,,{\i1}Credo che il suo buon umore sia un atto di spavalderia o di disperazione.
-Dialogue: 0,0:13:34.13,0:13:39.10,WOR,,0,0,0,,{\i1}Ma Toko-chan è senza dubbio un'attrice di talento...
+Dialogue: 0,0:13:28.25,0:13:33.02,WOR,,0,0,0,,{\i1}Chissà se il suo buon umore è dato da spavalderia o disperazione,
+Dialogue: 0,0:13:34.13,0:13:39.10,WOR,,0,0,0,,{\i1}In entrambi i casi, è indubbio che Toko-chan sia un'attrice di talento...
 Dialogue: 0,0:13:39.10,0:13:41.90,WOR,,0,0,0,,{\i1}...e un'incredibile bugiarda.
 Dialogue: 0,0:13:42.97,0:13:44.60,WOR,,0,0,0,,Allora andiamo via prima di voi.
-Dialogue: 0,0:13:44.60,0:13:45.97,WOR,,0,0,0,,Grazie per l'ottimo lavoro svolto.
-Dialogue: 0,0:13:46.44,0:13:47.93,WOR,,0,0,0,,Già, un ottimo lavoro.
+Dialogue: 0,0:13:44.60,0:13:45.97,WOR,,0,0,0,,Grazie per oggi.
+Dialogue: 0,0:13:46.44,0:13:47.93,WOR,,0,0,0,,Già, ottimo lavoro.
 Dialogue: 0,0:13:48.01,0:13:49.06,WOR,,0,0,0,,Buona giornata.
 Dialogue: 0,0:13:52.24,0:13:53.21,WOR,,0,0,0,,Ehm...
 Dialogue: 0,0:13:53.28,0:13:54.71,WOR,,0,0,0,,Cosa c'è, Yumi?
@@ -527,26 +521,26 @@ Dialogue: 0,0:13:55.01,0:13:57.71,WOR,,0,0,0,,In realtà si tratta di Toko-chan,
 Dialogue: 0,0:14:00.29,0:14:03.45,WOR,,0,0,0,,Capisco. Non avevo idea che fosse successa una cosa del genere.
 Dialogue: 0,0:14:04.16,0:14:05.82,WOR,,0,0,0,,Che cosa dovremmo fare?
 Dialogue: 0,0:14:06.76,0:14:08.09,WOR,,0,0,0,,Lo dici così però...
-Dialogue: 0,0:14:08.09,0:14:09.46,WOR,,0,0,0,,C'è spazio per il dibattito?
+Dialogue: 0,0:14:08.09,0:14:09.46,WOR,,0,0,0,,C'è tempo per discuterne?
 Dialogue: 0,0:14:10.50,0:14:12.05,WOR,,0,0,0,,Che cosa intendi dire?
 Dialogue: 0,0:14:12.46,0:14:16.17,WOR,,0,0,0,,Cosa pensi sia più importante per Toko-chan?
 Dialogue: 0,0:14:16.17,0:14:18.97,WOR,,0,0,0,,Dovrebbe essere il club di teatro, giusto?
-Dialogue: 0,0:14:20.17,0:14:23.01,WOR,,0,0,0,,Non credi che sarebbe meglio lasciarla in pace?
+Dialogue: 0,0:14:20.17,0:14:23.01,WOR,,0,0,0,,Non credi sarebbe meglio lasciarla in pace?
 Dialogue: 0,0:14:23.01,0:14:24.64,WOR,,0,0,0,,Si è ritirata dalla recita del club di teatro...
 Dialogue: 0,0:14:24.64,0:14:27.48,WOR,,0,0,0,,...senza parlarne con nessuno, giusto?
 Dialogue: 0,0:14:27.48,0:14:29.75,WOR,,0,0,0,,Allora avrebbe più senso...
 Dialogue: 0,0:14:29.75,0:14:32.62,WOR,,0,0,0,,... che lei ci rifletta e risolva la questione da sola.
 Dialogue: 0,0:14:33.22,0:14:35.98,WOR,,0,0,0,,Sotto un certo punto di vista, Yoshino-chan ha ragione, ma...
 Dialogue: 0,0:14:36.42,0:14:37.96,WOR,,0,0,0,,...è ancora una studentessa del primo anno.
-Dialogue: 0,0:14:37.96,0:14:40.55,WOR,,0,0,0,,È giusto essere così distaccati?
+Dialogue: 0,0:14:37.96,0:14:40.55,WOR,,0,0,0,,È davvero giusto essere così distaccati con lei?
 Dialogue: 0,0:14:41.26,0:14:43.25,WOR,,0,0,0,,Cosa ne pensi, Rosa Gigantea?
-Dialogue: 0,0:14:46.30,0:14:49.40,WOR,,0,0,0,,Penso che, se Toko-chan non riesce a destreggiarsi in entrambi i ruoli,
-Dialogue: 0,0:14:49.40,0:14:52.77,WOR,,0,0,0,,sarebbe meglio che torni al club di teatro.
-Dialogue: 0,0:14:53.41,0:14:56.74,WOR,,0,0,0,,in fin dei conti, è un membro ufficiale del club.
+Dialogue: 0,0:14:46.30,0:14:49.40,WOR,,0,0,0,,Anch'io penso che se Toko-chan non riesce a interpretare entrambi i ruoli,
+Dialogue: 0,0:14:49.40,0:14:52.77,WOR,,0,0,0,,sarebbe meglio restituirla al club di teatro.
+Dialogue: 0,0:14:53.41,0:14:56.74,WOR,,0,0,0,,In fin dei conti, è un membro ufficiale del club.
 Dialogue: 0,0:14:56.74,0:14:57.77,WOR,,0,0,0,,Sono d'accordo.
-Dialogue: 0,0:15:00.71,0:15:04.52,WOR,,0,0,0,,Beh, fornire una guida per evitare di fare scelte sbagliate...
-Dialogue: 0,0:15:04.52,0:15:06.61,WOR,,0,0,0,,.....fa parte anche dei doveri di un senpai.
-Dialogue: 0,0:15:08.15,0:15:10.35,WOR,,0,0,0,,Ora che abbiamo risolto questo problema... Yumi.
+Dialogue: 0,0:15:00.71,0:15:04.52,WOR,,0,0,0,,Beh, guidare gli altri per evitare di fare scelte sbagliate...
+Dialogue: 0,0:15:04.52,0:15:06.61,WOR,,0,0,0,,...è uno dei doveri di una senpai.
+Dialogue: 0,0:15:08.15,0:15:10.35,WOR,,0,0,0,,A proposito di questo... Yumi.
 Dialogue: 0,0:15:10.42,0:15:11.22,WOR,,0,0,0,,Sì?!
 Dialogue: 0,0:15:11.76,0:15:14.33,WOR,,0,0,0,,Sarai tu a dirlo a Toko-chan.
 Dialogue: 0,0:15:14.33,0:15:14.79,WOR,,0,0,0,,Cosa?
@@ -555,106 +549,107 @@ Dialogue: 0,0:15:17.16,0:15:19.29,WOR,,0,0,0,,e tornare sul palco del club di te
 Dialogue: 0,0:15:19.56,0:15:21.12,WOR,,0,0,0,,Io?
 Dialogue: 0,0:15:22.33,0:15:23.16,WOR,,0,0,0,,Sì.
 Dialogue: 0,0:15:27.27,0:15:28.40,WOR,,0,0,0,,Capisco.
-Dialogue: 0,0:15:47.86,0:15:51.26,WOR,,0,0,0,,Yumi-sama, perché mi ostacoli la strada?
+Dialogue: 0,0:15:47.86,0:15:51.26,WOR,,0,0,0,,Yumi-sama, perché mi bloccate la strada?
 Dialogue: 0,0:15:51.33,0:15:53.32,WOR,,0,0,0,,Voglio sapere cosa sta succedendo.
-Dialogue: 0,0:15:53.47,0:15:54.45,WOR,,0,0,0,,Con cosa?
+Dialogue: 0,0:15:53.47,0:15:54.45,WOR,,0,0,0,,Cosa intendete?
 Dialogue: 0,0:15:55.73,0:15:57.13,WOR,,0,0,0,,E le tue attività del club?
 Dialogue: 0,0:15:57.34,0:15:58.73,WOR,,0,0,0,,Oggi ho il giorno libero!
 Dialogue: 0,0:16:01.24,0:16:03.26,WOR,,0,0,0,,Questo è il programma del club di teatro.
 Dialogue: 0,0:16:03.81,0:16:06.07,WOR,,0,0,0,,Oggi dovresti fare le prove in palestra, giusto?
 Dialogue: 0,0:16:07.48,0:16:09.35,WOR,,0,0,0,,Solo io ho il giorno libero.
-Dialogue: 0,0:16:09.35,0:16:10.48,WOR,,0,0,0,,Sei soddisfatta?
+Dialogue: 0,0:16:09.35,0:16:10.48,WOR,,0,0,0,,Siete soddisfatte?
 Dialogue: 0,0:16:10.48,0:16:11.74,WOR,,0,0,0,,No, non lo sono.
 Dialogue: 0,0:16:11.85,0:16:15.72,WOR,,0,0,0,,Più giorni salti, più sarà difficile tornare indietro.
 Dialogue: 0,0:16:16.82,0:16:19.72,WOR,,0,0,0,,Ho sentito dire che ti sei ritirata. È vero?
 Dialogue: 0,0:16:19.82,0:16:20.63,WOR,,0,0,0,,Sì.
 Dialogue: 0,0:16:20.63,0:16:22.02,WOR,,0,0,0,,Perché mai?
-Dialogue: 0,0:16:22.56,0:16:23.42,WOR,,0,0,0,,Non c'è motivo.
-Dialogue: 0,0:16:24.30,0:16:27.20,WOR,,0,0,0,,In qualche modo è diventato noioso.
+Dialogue: 0,0:16:22.56,0:16:23.42,WOR,,0,0,0,,Niente di che.
+Dialogue: 0,0:16:24.30,0:16:27.20,WOR,,0,0,0,,Non so come ma è diventato noioso.
 Dialogue: 0,0:16:30.50,0:16:31.59,WOR,,0,0,0,,Sei proprio una bugiarda.
 Dialogue: 0,0:16:33.10,0:16:34.04,WOR,,0,0,0,,Bugiarda?
 Dialogue: 0,0:16:34.47,0:16:36.46,WOR,,0,0,0,,Ti piace recitare, vero?
-Dialogue: 0,0:16:36.61,0:16:39.84,WOR,,0,0,0,,È impossibile che tu possa annoiarti con il club di teatro.
-Dialogue: 0,0:16:40.65,0:16:43.08,WOR,,0,0,0,,Per favore, non parlarmi come se sapessi tutto.
+Dialogue: 0,0:16:36.61,0:16:39.84,WOR,,0,0,0,,È impossibile che tu possa annoiarti al club di teatro.
+Dialogue: 0,0:16:40.65,0:16:43.08,WOR,,0,0,0,,Per favore, non parlatemi come se sapeste tutto.
 Dialogue: 0,0:16:43.58,0:16:45.05,WOR,,0,0,0,,Che cosa è successo?
 Dialogue: 0,0:16:45.88,0:16:46.78,WOR,,0,0,0,,Nulla...
 Dialogue: 0,0:16:48.45,0:16:49.44,WOR,,0,0,0,,È solo che...
 Dialogue: 0,0:16:50.29,0:16:52.09,WOR,,0,0,0,,Sono dilettanti.
-Dialogue: 0,0:16:52.22,0:16:56.59,WOR,,0,0,0,,Se sbaglio solo un po' le battute, vengo assalita.
-Dialogue: 0,0:16:57.13,0:17:00.47,WOR,,0,0,0,,Tuttavia, come studentessa del primo anno che ha vinto un ruolo importante,
-Dialogue: 0,0:17:00.47,0:17:02.87,WOR,,0,0,0,,non si può evitare che alcuni siano gelosi di me.
+Dialogue: 0,0:16:52.22,0:16:56.59,WOR,,0,0,0,,Se sbaglio leggermente le battute, vengo assalita.
+Dialogue: 0,0:16:57.13,0:17:00.47,WOR,,0,0,0,,Tuttavia, essendo una studentessa del primo anno in un ruolo importante,
+Dialogue: 0,0:17:00.47,0:17:02.87,WOR,,0,0,0,,non posso evitare che alcuni siano gelosi di me.
 Dialogue: 0,0:17:02.87,0:17:04.10,WOR,,0,0,0,,Un ruolo importante?
 Dialogue: 0,0:17:04.50,0:17:07.77,WOR,,0,0,0,,Mi è stato affidato il ruolo di Amy in "Piccole donne".
-Dialogue: 0,0:17:08.14,0:17:11.60,WOR,,0,0,0,,Wow! È incredibile! Uno dei ruoli principali!
+Dialogue: 0,0:17:08.14,0:17:11.60,WOR,,0,0,0,,Ah! È incredibile! Uno dei ruoli principali!
 Dialogue: 0,0:17:12.61,0:17:14.27,WOR,,0,0,0,,Verrò sicuramente a vederti!
 Dialogue: 0,0:17:14.45,0:17:18.45,WOR,,0,0,0,,Mi è stato. Ho parlato al passato.
 Dialogue: 0,0:17:18.45,0:17:19.11,WOR,,0,0,0,,Oh...
 Dialogue: 0,0:17:23.49,0:17:27.19,WOR,,0,0,0,,C'è una senpai che mi critica incessantemente.
-Dialogue: 0,0:17:27.46,0:17:31.33,WOR,,0,0,0,,Ho risposto: "Non va bene se lo perfeziono prima della rappresentazione vera e propria?".
-Dialogue: 0,0:17:31.50,0:17:33.20,WOR,,0,0,0,,E lei ha detto: "Se non puoi farlo durante le prove,
-Dialogue: 0,0:17:33.20,0:17:35.36,WOR,,0,0,0,,sarai in grado di farlo durante lo spettacolo?".
-Dialogue: 0,0:17:36.13,0:17:38.66,WOR,,0,0,0,,Così alla fine l'ho detto...
+Dialogue: 0,0:17:27.46,0:17:31.33,WOR,,0,0,0,,Ho risposto: "Non va bene se lo perfeziono entro la rappresentazione finale?"
+Dialogue: 0,0:17:31.50,0:17:33.20,WOR,,0,0,0,,E lei ha detto: "Se non riesci durante le prove,
+Dialogue: 0,0:17:33.20,0:17:35.36,WOR,,0,0,0,,come puoi essere in grado di farlo durante lo spettacolo?".
+Dialogue: 0,0:17:36.13,0:17:38.66,WOR,,0,0,0,,Così alla fine l'ho detto:
 Dialogue: 0,0:17:39.60,0:17:41.63,WOR,,0,0,0,,Allora perché non lo fai tu?
 Dialogue: 0,0:17:43.38,0:17:47.05,WOR,,0,0,0,,Q-Quindi, quella senpai adesso interpreta Amy?
 Dialogue: 0,0:17:47.05,0:17:48.38,WOR,,0,0,0,,Non lo so.
-Dialogue: 0,0:17:48.48,0:17:50.52,WOR,,0,0,0,,Me ne sono andata dalle prove dopo quello...
+Dialogue: 0,0:17:48.48,0:17:50.52,WOR,,0,0,0,,Me ne sono andata dalle prove subito dopo...
 Dialogue: 0,0:17:50.52,0:17:52.81,WOR,,0,0,0,,...e da allora non sono più tornata, quindi...
 Dialogue: 0,0:17:54.19,0:17:58.12,WOR,,0,0,0,,Perché sto raccontando tutto questo a Yumi-sama?
 Dialogue: 0,0:17:58.72,0:17:59.69,WOR,,0,0,0,,Toko-chan.
 Dialogue: 0,0:18:00.89,0:18:01.96,WOR,,0,0,0,,Vedi,
 Dialogue: 0,0:18:01.96,0:18:03.73,WOR,,0,0,0,,la Rosa Chinensis e le altre...
 Dialogue: 0,0:18:03.73,0:18:05.92,WOR,,0,0,0,,...dicono che dovresti tornare al club di teatro.
-Dialogue: 0,0:18:06.26,0:18:08.43,WOR,,0,0,0,,Questo significa che non c'è bisogno di me?!
+Dialogue: 0,0:18:06.26,0:18:08.43,WOR,,0,0,0,,Volete dire che non c'è bisogno di me?
 Dialogue: 0,0:18:08.83,0:18:14.17,WOR,,0,0,0,,No, sono davvero grata che tu sia venuta a far parte di questo progetto.
 Dialogue: 0,0:18:14.17,0:18:16.84,WOR,,0,0,0,,Ma se questo ostacolerà il tuo rendimento nel club di teatro,
-Dialogue: 0,0:18:16.84,0:18:18.31,WOR,,0,0,0,,credo che sia un problema.
+Dialogue: 0,0:18:16.84,0:18:18.31,WOR,,0,0,0,,credo sia un problema.
 Dialogue: 0,0:18:18.31,0:18:20.51,WOR,,0,0,0,,Non voglio sentire queste scuse!
-Dialogue: 0,0:18:20.51,0:18:25.14,WOR,,0,0,0,,Vedere questo tuo lato da santarellina mi fa infuriare!
-Dialogue: 0,0:18:25.75,0:18:29.38,WOR,,0,0,0,,Perché non la smetti di fare giri di parole e mi dici semplicemente che mi cacciate?!
-Dialogue: 0,0:18:30.19,0:18:32.12,WOR,,0,0,0,,Questo è sicuramente vero,
-Dialogue: 0,0:18:32.12,0:18:35.18,WOR,,0,0,0,,ma mi sono appena resa conto che questo non risolve nulla.
+Dialogue: 0,0:18:20.51,0:18:25.14,WOR,,0,0,0,,Vedere questo vostro lato da santarellina mi fa infuriare, Yumi-sama!
+Dialogue: 0,0:18:25.75,0:18:29.38,WOR,,0,0,0,,Perché non la smettete di fare giri di parole e mi dite semplicemente che sono cacciata?
+Dialogue: 0,0:18:30.19,0:18:32.12,WOR,,0,0,0,,Probabilmente hai ragione,
+Dialogue: 0,0:18:32.12,0:18:35.18,WOR,,0,0,0,,ma mi sono appena resa conto che non risolverebbe nulla.
 Dialogue: 0,0:18:36.59,0:18:39.62,WOR,,0,0,0,,Andiamo subito al club di teatro! Vengo con te!
 Dialogue: 0,0:18:40.53,0:18:41.43,WOR,,0,0,0,,Eh?
-Dialogue: 0,0:18:42.00,0:18:46.34,WOR,,0,0,0,,E proviamo a chiedergli di assegnarti di nuovo il ruolo di Amy.
+Dialogue: 0,0:18:42.00,0:18:46.34,WOR,,0,0,0,,E proviamo a chiedere di assegnarti di nuovo il ruolo di Amy.
 Dialogue: 0,0:18:46.34,0:18:50.31,WOR,,0,0,0,,Se non possono, si può comunque optare per il Passante A o B!
 Dialogue: 0,0:18:50.31,0:18:52.07,WOR,,0,0,0,,Non ci sono ruoli di questo tipo.
 Dialogue: 0,0:18:52.24,0:18:53.58,WOR,,0,0,0,,Erano solo esempi.
 Dialogue: 0,0:18:53.58,0:18:58.45,WOR,,0,0,0,,Insomma, non usarti sarebbe una perdita enorme per il club di teatro della Lillian.
-Dialogue: 0,0:18:58.45,0:19:00.39,WOR,,0,0,0,,Ricorri a complimenti al rovescio adesso?
+Dialogue: 0,0:18:58.45,0:19:00.39,WOR,,0,0,0,,Ora cercate di elogiarmi?
 Dialogue: 0,0:19:00.39,0:19:01.78,WOR,,0,0,0,,Certo che no!
-Dialogue: 0,0:19:02.22,0:19:05.38,WOR,,0,0,0,,Visto che siamo arrivati qui, mi aspetto che parteciperai al nostro spettacolo.
-Dialogue: 0,0:19:05.49,0:19:09.33,WOR,,0,0,0,,Oh, ma prima devi dare la priorità ai tuoi doveri nel club di teatro.
-Dialogue: 0,0:19:09.33,0:19:12.36,WOR,,0,0,0,,Metti in scena una performance così buona che nessuno possa lamentarsi, va bene?
-Dialogue: 0,0:19:12.36,0:19:12.60,WOR,,0,0,0,,Ehm...
-Dialogue: 0,0:19:12.60,0:19:12.96,WOR,,0,0,0,,Ehm...
-Dialogue: 0,0:19:13.53,0:19:16.47,WOR,,0,0,0,,Per i Changeling, perché non vieni a casa mia per esercitarti?
-Dialogue: 0,0:19:16.47,0:19:18.37,WOR,,0,0,0,,Ci sarà anche Yuki, quindi sarà perfetto.
-Dialogue: 0,0:19:18.37,0:19:21.24,WOR,,0,0,0,,Sarebbe un inconveniente se vi disturbassi a casa.
+Dialogue: 0,0:19:02.22,0:19:05.38,WOR,,0,0,0,,Arrivate a questo punto, mi aspetto che parteciperai al nostro spettacolo.
+Dialogue: 0,0:19:05.49,0:19:09.33,WOR,,0,0,0,,Oh, ma prima devi dare la priorità ai tuoi doveri al club di teatro.
+Dialogue: 0,0:19:09.33,0:19:12.36,WOR,,0,0,0,,Vedi di recitare così bene tanto che nessuno possa lamentarsi, chiaro?
+Dialogue: 0,0:19:12.36,0:19:12.96,WOR,,0,0,0,,Ehm...
+Dialogue: 0,0:19:13.53,0:19:16.47,WOR,,0,0,0,,Per i Torikaebaya, perché non vieni a casa mia ad esercitarti?
+Dialogue: 0,0:19:16.47,0:19:18.37,WOR,,0,0,0,,Ci sarà anche Yuki, sarà perfetto.
+Dialogue: 0,0:19:18.37,0:19:21.24,WOR,,0,0,0,,Vi creerei solo fastidio se vi disturbassi in casa.
 Dialogue: 0,0:19:21.37,0:19:22.77,WOR,,0,0,0,,No, non lo sarebbe!
 Dialogue: 0,0:19:33.15,0:19:35.71,WOR,,0,0,0,,Ecco di nuovo quello sguardo aperto e vulnerabile.
 Dialogue: 0,0:19:36.05,0:19:36.86,WOR,,0,0,0,,Cosa?
 Dialogue: 0,0:19:36.86,0:19:38.22,WOR,,0,0,0,,Ho capito.
-Dialogue: 0,0:19:38.22,0:19:40.71,WOR,,0,0,0,,Ho capito, quindi per favore lascia la mia mano.
-Dialogue: 0,0:19:40.83,0:19:41.36,WOR,,0,0,0,,Quindi?!
-Dialogue: 0,0:19:41.36,0:19:43.70,WOR,,0,0,0,,Non ci sarà bisogno che ti disturbi a casa...
+Dialogue: 0,0:19:38.22,0:19:40.71,WOR,,0,0,0,,Ho capito, quindi per favore lasciate la mia mano.
+Dialogue: 0,0:19:40.83,0:19:41.36,WOR,,0,0,0,,Quindi?
+Dialogue: 0,0:19:41.36,0:19:43.70,WOR,,0,0,0,,Non ci sarà bisogno di disturbarvi in casa...
 Dialogue: 0,0:19:43.70,0:19:45.53,WOR,,0,0,0,,...e andrò al club di teatro da sola!
 Dialogue: 0,0:19:45.90,0:19:47.30,WOR,,0,0,0,,S-Sei sicura?
-Dialogue: 0,0:19:48.97,0:19:53.06,WOR,,0,0,0,,Non siamo mica bambine che hanno litigato ed hanno bisogno di un genitore che sistemi le cose.
-Dialogue: 0,0:19:58.41,0:20:00.81,WOR,,0,0,0,,Come ho detto, per favore non seguirmi!
-Dialogue: 0,0:20:00.88,0:20:03.18,WOR,,0,0,0,,Davvero! È imbarazzante!
+Dialogue: 0,0:19:48.97,0:19:50.87,WOR,,0,0,0,,Non siamo mica bambini piccoli...
+Dialogue: 0,0:19:50.87,0:19:53.06,WOR,,0,0,0,,...bisognosi di un genitore li aiuti a rimettere a posto le cose.
+Dialogue: 0,0:19:58.41,0:20:00.81,WOR,,0,0,0,,Vi ho già detto di non seguirmi!
+Dialogue: 0,0:20:00.88,0:20:03.18,WOR,,0,0,0,,Davvero... è imbarazzante!
 Dialogue: 0,0:20:06.52,0:20:07.51,WOR,,0,0,0,,Toko-chan!
 Dialogue: 0,0:20:09.25,0:20:11.19,WOR,,0,0,0,,Non esagerare, va bene?!
 Dialogue: 0,0:20:11.19,0:20:14.12,WOR,,0,0,0,,Se hai voglia di lamentarti, vieni da me!
 Dialogue: 0,0:20:14.36,0:20:15.26,WOR,,0,0,0,,Capito?!
-Dialogue: 0,0:20:21.43,0:20:23.77,WOR,,0,0,0,,Accidenti, che ragazza sei.
+Dialogue: 0,0:20:21.43,0:20:23.77,WOR,,0,0,0,,Ma guarda te, che ragazza sei.
 Dialogue: 0,0:20:23.77,0:20:26.10,WOR,,0,0,0,,O-Onee-sama!
-Dialogue: 0,0:20:28.41,0:20:30.93,WOR,,0,0,0,,Mi dispiace essermi comportata in modo così irresponsabile.
-Dialogue: 0,0:20:31.55,0:20:35.58,WOR,,0,0,0,,Dovevo dirle di ritirarsi dallo spettacolo del Consiglio Yamayuri e invece...
+Dialogue: 0,0:20:28.41,0:20:30.93,WOR,,0,0,0,,Mi dispiace di essermi comportata in modo così irresponsabile.
+Dialogue: 0,0:20:31.38,0:20:32.78,WOR,,0,0,0,,Avrei dovuto dirle...
+Dialogue: 0,0:20:32.78,0:20:35.58,WOR,,0,0,0,,...di ritirarsi dallo spettacolo del Consiglio Yamayuri e...
 Dialogue: 0,0:20:35.58,0:20:37.05,WOR,,0,0,0,,In effetti, è così.
 Dialogue: 0,0:20:41.45,0:20:42.28,WOR,,0,0,0,,Però...
-Dialogue: 0,0:20:44.09,0:20:49.36,WOR,,0,0,0,,Probabilmente hai fatto la migliore scelta possibile per Toko-chan.
+Dialogue: 0,0:20:44.09,0:20:49.36,WOR,,0,0,0,,Probabilmente hai fatto la miglior scelta possibile per Toko-chan.
 Dialogue: 0,0:20:53.46,0:20:55.26,WOR,,0,0,0,,Non ne sono così convinta.
-Dialogue: 0,0:20:55.33,0:20:56.43,WOR,,0,0,0,,Oh, no, non fare così.
+Dialogue: 0,0:20:55.33,0:20:56.43,WOR,,0,0,0,,Non fare così.
 Dialogue: 0,0:20:56.43,0:21:00.51,WOR,,0,0,0,,Se non rimani ferma, Toko-chan perderà la sua motivazione.
 Dialogue: 0,0:21:00.51,0:21:02.07,WOR,,0,0,0,,Yoshino ha ragione.
 Dialogue: 0,0:21:02.07,0:21:02.60,WOR,,0,0,0,,Già, già.
@@ -662,14 +657,13 @@ Dialogue: 0,0:21:03.91,0:21:06.27,WOR,,0,0,0,,Allora, andiamo di sopra?
 Dialogue: 0,0:21:06.34,0:21:07.21,WOR,,0,0,0,,Sì!
 Dialogue: 0,0:21:14.22,0:21:15.65,WOR,,0,0,0,,D'accordo!
 Dialogue: 0,0:21:16.55,0:21:18.86,WOR,,0,0,0,,{\i1}Essendo andata a scusarsi da sola,
-Dialogue: 1,0:21:18.86,0:21:20.46,WOR,,0,0,0,,{\i1}Toko-chan è stata reintegrata come Amy senza problemi...
-Dialogue: 1,0:21:20.46,0:21:20.86,WOR,,0,0,0,,{\i1}Toko-chan è stata reintegrata come Amy senza problemi...
-Dialogue: 1,0:21:20.86,0:21:22.35,WOR,,0,0,0,,{\i1)}...e la crisi fu scongiurata.
+Dialogue: 0,0:21:18.86,0:21:20.86,WOR,,0,0,0,,{\i1}Toko-chan è stata riassegnata ad Amy senza problemi...
+Dialogue: 0,0:21:20.86,0:21:22.35,WOR,,0,0,0,,{\i1}...e la crisi fu scongiurata.
 Dialogue: 0,0:21:22.93,0:21:24.16,WOR,,0,0,0,,Guarda.
-Dialogue: 0,0:21:33.77,0:21:35.33,WOR,,0,0,0,,2°anno, classe Fiori di ciliegio!
+Dialogue: 0,0:21:33.77,0:21:35.33,WOR,,0,0,0,,Siamo del 2° anno, classe fiori di ciliegio!
 Dialogue: 0,0:21:35.87,0:21:39.14,WOR,,0,0,0,,Abbiamo portato il caffè e i biscotti che serviremo domani.
 Dialogue: 0,0:21:39.48,0:21:41.51,WOR,,0,0,0,,Allora, abbiamo dei preparativi da fare,
-Dialogue: 0,0:21:41.51,0:21:42.78,WOR,,0,0,0,,quindi se potete darci un parere...
+Dialogue: 0,0:21:41.51,0:21:42.78,WOR,,0,0,0,,quindi se potete darci un riscontro più tardi...
 Dialogue: 0,0:21:42.78,0:21:44.34,WOR,,0,0,0,,Lo apprezzeremmo molto!
 Dialogue: 0,0:21:45.88,0:21:47.61,WOR,,0,0,0,,Grazie per averci portato questa delizia.
 Dialogue: 0,0:21:48.19,0:21:50.55,WOR,,0,0,0,,Ogni classe sembra così impegnata.
@@ -688,10 +682,7 @@ Dialogue: 0,0:22:15.08,0:22:16.91,WOR,,0,0,0,,Andiamo dopo aver mangiato.
 Dialogue: 0,0:22:19.35,0:22:20.51,WOR,,0,0,0,,Cosa faremo?
 Dialogue: 0,0:22:20.59,0:22:23.52,WOR,,0,0,0,,È tutta colpa tua, sorella!
 Dialogue: 0,0:22:23.69,0:22:25.52,WOR,,0,0,0,,{\i1}Che ci piacesse o meno,
-Dialogue: 0,0:22:26.46,0:22:28.06,WOR,,0,0,0,,{\i1}il festival della scuola era a un giorno di distanza.
-Dialogue: 0,0:22:28.06,0:22:29.49,WOR,,0,0,0,,{\i1}il festival della scuola era a un giorno di distanza.
-Dialogue: 0,0:22:28.15,0:22:30.16,WOR,,0,0,0,,{\bord4\fs37\an8\3c&HA09BAE&\4c&HA09BAE&\c&H000000&\b1\fnDejaVu Sans Mono\move(1336,166,1394,146)}Biglietto d'ingresso \Nal festival scolastico\N dell'Accademia femminile Lillian
-Dialogue: 0,0:24:05.13,0:24:35.16,WOR,,0,0,0,,{\bord8\an8\fs75\fnArno Pro\c&HFFFFFE&\3c&H032647&\4c&H032647&\2c&H092D4A&\b1\pos(312,36.668)}Anticipazioni
+Dialogue: 0,0:22:26.46,0:22:29.49,WOR,,0,0,0,,{\i1}al festival della scuola mancava solo un giorno.
 Dialogue: 0,0:24:06.16,0:24:09.09,WOR,,0,0,0,,Oh, Yumi-sama, avresti per caso qualche biglietto in più per il festival scolastico?
 Dialogue: 0,0:24:09.09,0:24:10.56,WOR,,0,0,0,,Mi dispiace, non ne ho più.
 Dialogue: 0,0:24:10.56,0:24:11.40,WOR,,0,0,0,,Capisco.
@@ -699,14 +690,12 @@ Dialogue: 0,0:24:11.40,0:24:14.47,WOR,,0,0,0,,A proposito, Toko-chan ha frequent
 Dialogue: 0,0:24:14.47,0:24:16.27,WOR,,0,0,0,,Sì, sembra che stia guadagnando consensi...
 Dialogue: 0,0:24:16.27,0:24:18.54,WOR,,0,0,0,,...grazie al fatto che la sua gamma si è ampliata da prima della sua pausa.
 Dialogue: 0,0:24:18.54,0:24:19.97,WOR,,0,0,0,,Non vedo l'ora di vedere lo spettacolo.
-Dialogue: 0,0:24:19.97,0:24:23.14,WOR,,0,0,0,,Yumi, ricorda che anche la rappresentazione del nostro spettacolo è imminente.
+Dialogue: 0,0:24:19.97,0:24:23.14,WOR,,0,0,0,,Yumi, ricorda che anche la rappresentazione del nostro spettacolo si avvicina.
 Dialogue: 0,0:24:23.14,0:24:25.14,WOR,,0,0,0,,Ci eserciteremo senza sosta fino all'ultimo minuto!
-Dialogue: 0,0:24:25.14,0:24:25.58,WOR,,0,0,0,,S-Sì, signora!
-Dialogue: 0,0:24:25.58,0:24:26.21,WOR,,0,0,0,,S-Sì, signora!
-Dialogue: 0,0:24:25.23,0:24:35.16,WOR,,0,0,0,,{\fade(800,0)\an8\fs75\fnArno Pro\c&HFFFFFE&\3c&H032647&\4c&H032647&\2c&H092D4A&\b1\pos(1226.667,719.334)}Un giorno ordinario senza nulla di speciale
+Dialogue: 0,0:24:25.14,0:24:26.21,WOR,,0,0,0,,S-Sì, signora!
 Dialogue: 0,0:24:26.21,0:24:27.78,WOR,,0,0,0,,Il festival scolastico è quasi arrivato.
-Dialogue: 0,0:24:27.78,0:24:29.91,WOR,,0,0,0,,Così come il primo anniversario tra me e Sachiko-sama.
-Dialogue: 0,0:24:29.91,0:24:32.22,WOR,,0,0,0,,{}Prossimo episodio: Un giorno ordinario senza nulla di speciale
+Dialogue: 0,0:24:27.78,0:24:29.91,WOR,,0,0,0,,Così come il primo anniversario di me e Sachiko-sama.
+Dialogue: 0,0:24:29.91,0:24:32.22,WOR,,0,0,0,,Prossimo episodio: Un giorno ordinario senza nulla di speciale
 Dialogue: 0,0:24:32.22,0:24:34.15,WOR,,0,0,0,,Mi chiedo che tipo di giorno sarà.
 
 [Aegisub Extradata]
