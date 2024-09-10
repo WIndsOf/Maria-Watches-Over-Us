@@ -11,12 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Maria Watches Over Us S04E01 The School Festival is Shock².mkv
-Video File: Maria Watches Over Us S04E01 The School Festival is Shock².mkv
+Audio File: Maria Watches Over Us S04E01 The School Festival is Shock.mkv
+Video File: Maria Watches Over Us S04E01 The School Festival is Shock.mkv
+Video AR Mode: 2
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 7
-Video Position: 35367
+Video Zoom Percent: 0.500000
+Scroll Position: 93
+Active Line: 261
+Video Position: 3769
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,8 +81,9 @@ Dialogue: 1,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\fade(400,400)\an2\fs55\fnBa
 Dialogue: 0,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\bord6\blur8\fade(400,400)\an2\fs55\fnBakerSignet BT\b1\c&H072A4D&\3c&H072A4D&\pos(960,760)}Yumi Fukuzawa
 Dialogue: 0,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\bord4\blur5\fade(400,400)\an8\fs55\fnBakerSignet BT\b1\c&H072A4D&\pos(960,950)\3c&H072A4D&}(Rosa Chinensis en bouton)
 Dialogue: 1,0:03:26.93,0:03:32.27,Cartelli,,0,0,0,,{\blur0.6\fade(400,400)\an8\fs55\fnBakerSignet BT\b1\c&HA9DEEC&\pos(960,950)}(Rosa Chinensis en bouton)
-Comment: 0,0:08:13.35,0:08:18.85,Cartelli,,0,0,0,,{=16=22}Aegisub-Motion Trim: festival-scolastico.mocha
+Dialogue: 0,0:03:33.03,0:03:37.89,Cartelli,,0,0,0,,{\an8\pos(981.34,344)}Il Festival della Scuola è in Shock²
 Dialogue: 0,0:08:13.34,0:08:13.38,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx160.71\fscy160.71\frz-16.25\frx1.8366\fry-0.7885\org(946.81,996.87)\pos(860.85,902.04)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
+Comment: 0,0:08:13.35,0:08:18.85,Cartelli,,0,0,0,,{=16=22}Aegisub-Motion Trim: festival-scolastico.mocha
 Dialogue: 0,0:08:13.38,0:08:13.43,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx159.62\fscy159.62\frz-16.29\frx1.8366\fry-0.7885\org(947.69,981.72)\pos(862.38,887.48)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
 Dialogue: 0,0:08:13.43,0:08:13.47,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx158.59\fscy158.59\frz-16.33\frx1.8366\fry-0.7885\org(948.94,966.57)\pos(864.24,872.88)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
 Dialogue: 0,0:08:13.47,0:08:13.51,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx157.71\fscy157.71\frz-16.3\frx1.8366\fry-0.7885\org(948.1,953.51)\pos(863.82,860.37)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
@@ -213,9 +216,8 @@ Dialogue: 0,0:08:18.72,0:08:18.76,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7
 Dialogue: 0,0:08:18.76,0:08:18.81,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx100\fscy100\frz-16.18\frx1.8366\fry-0.7885\org(950.66,101.35)\pos(897.1,42.4)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
 Dialogue: 0,0:08:18.81,0:08:18.85,Cartelli,,0,0,0,,{=16=19}{\alpha&H00&\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx100\fscy100\frz-16.18\frx1.8366\fry-0.7885\org(950.67,101.33)\pos(897.12,42.38)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
 Dialogue: 0,0:08:18.85,0:08:29.03,Cartelli,,0,0,0,,{=16=23}{\fade(0,800)\fs40\an7\c&H545658&\fnImpact\fax-0.195489\fscx100\fscy100\frz-16.1844\frx1.8366\fry-0.7885\org(950.67,101.33)\pos(897.12,42.38)}Festival scolastico dell'Istituto femminile Lillian\N I Changeling Consiglio Yamayuri
-Dialogue: 0,0:03:33.03,0:03:37.89,Cartelli,,0,0,0,,{\an8\pos(981.34,344)}Il Festival della Scuola è in Shock²
-Dialogue: 0,0:24:05.09,0:24:35.12,Cartelli,,0,0,0,,{\an8\pos(333.33,30)}Anticipazioni
-Dialogue: 0,0:24:25.19,0:24:35.12,Cartelli,,0,0,0,,{\pos(1226.66,701.34)}Prossimo episodio: Un giorno ordinario senza nulla di speciale
+Dialogue: 0,0:24:05.09,0:24:35.12,Cartelli,,0,0,0,,{\bord8\an8\fs75\fnArno Pro\c&HFFFFFE&\3c&H032647&\4c&H032647&\2c&H092D4A&\b1\pos(312,36.668)}Anticipazioni
+Dialogue: 0,0:24:25.19,0:24:35.12,Cartelli,,0,0,0,,{\an2\fade(1000,0)\fscy60\bord6\3c&H012745&\fn@BIZ UDMincho Medium\pos(1218.66,769.34)}Un giorno ordinario \Nsenza nulla di speciale
 Dialogue: 0,0:22:43.41,0:22:46.47,ED_ITA,,0,0,0,,A winterscape where even...
 Dialogue: 0,0:22:46.47,0:22:51.17,ED_ITA,,0,0,0,,...the town's colors seem forlorn somehow
 Dialogue: 0,0:22:51.41,0:22:55.64,ED_ITA,,0,0,0,,I think of you, turning your back on me...
@@ -280,33 +282,21 @@ Dialogue: 0,0:01:23.20,0:01:29.73,OP_JP,,0,0,0,,{\k29}{\k102}Ko{\k74}u{\k65}sha 
 Dialogue: 0,0:01:29.80,0:01:38.04,OP_JP,,0,0,0,,{\k23}{\k31}Do{\k29}ko{\k22}ni{\k22}mo {\k50}i{\k24}ke{\k101}ru {\k55}so{\k34}ko {\k117}ni {\k41}mi{\k32}chi {\k45}ga {\k46}a{\kf152}ru
 Dialogue: 0,0:01:38.14,0:01:45.24,OP_JP,,0,0,0,,{\k39}{\k99}Su{\k67}ka{\k36}a{\k46}to {\k27}no {\k63}hi{\k52}da {\k46}mi{\k26}da{\k48}re{\k43}-na{\k118}i
 Dialogue: 0,0:01:45.35,0:01:52.55,OP_JP,,0,0,0,,{\k29}{\k31}Hi{\k23}mi{\k51}tsu {\k24}no {\k47}ta{\k49}bi {\kf209}na{\kf257}ra
-Dialogue: 1,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\bord120\fs80\fade(500,0)\fry0.13\frx-0.58\an8\org(979,916)\frz332.6\c&H3C3D3A&\3c&HE8EFE8&\4c&HE8EFE8&\b1\clip(m 1531 484 l 1752 604 1916 283 1915 0 1779 0)\pos(1393.33,-53.67)} Piccole \NDonne
-Dialogue: 0,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\bord120\fs80\fade(500,0)\fry0.13\frx-0.58\an8\frz332.6\pos(1391.333,-96.333)\c&H3C3D3A&\3c&HE8EFE8&\4c&HE8EFE8&\b1\clip(m 1531 484 l 1752 604 1916 283 1947 -3 1779 0)\org(1363,774.666)}{\c&HE8EFE8&}cfvfv
-Dialogue: 0,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\bord120\fs80\fade(500,0)\fry0.13\frx-0.58\an8\frz332.6\c&H3C3D3A&\3c&HE8EFE8&\4c&HE8EFE8&\b1\clip(m 1531 484 l 1752 604 1916 283 1947 -3 1779 0)\org(1378.999,804)\pos(1508,375.667)}{\c&HE8EFE8&}cfv
-Dialogue: 2,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord100\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 600 69 l 1341 341 1218 562 509 314 568 200)\3c&HEAF2F2&\c&HEAF2F2&\4c&HEAF2F2&\3a&HFF&\frz331.2\fs88\pos(1272,137.33)}Meg: Ryoko Takahashi
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 600 69 l 1341 341 1218 562 509 314 568 200)\c&H242424&\4c&HEAF2F2&\3a&HFF&\frz331.2\fs88\pos(1272,137.33)\4a&HFF&}Meg: Ryoko Takahashi
-Dialogue: 2,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord100\3c&HEAF2F2&\c&HEAF2F2&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 594 269 l 568 330 1213 629 1237 525)\3a&HFF&\frz331.2\fs88\pos(1210.67,222.67)}Jo: Ai Yaguchi
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\c&H242424&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 594 269 l 568 330 1213 629 1237 525)\3a&HFF&\frz331.2\fs88\pos(1210.67,222.67)\4a&HFF&}Jo: Ai Yaguchi
-Dialogue: 2,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord100\3c&HEAF2F2&\c&HEAF2F2&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 509 301 l 466 392 1168 712 1258 632)\3a&HFF&\frz331.2\fs88\pos(1261.33,308)}Beth: Masami Niidome
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\c&H242424&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\\3a&HFF&\frz331.2\fs88\pos(1261.33,308)\4a&HFF&}Beth: Masami Niidome
-Dialogue: 2,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord100\3c&HEAF2F2&\c&HEAF2F2&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 477 386 l 442 466 594 549 701 578 1114 765 1141 653)\3a&HFF&\frz331.2\fs88\pos(1266.67,401.33)}Amy: Toko Matsudaira
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\c&H242424&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 477 386 l 442 466 594 549 701 578 1114 765 1141 653)\3a&HFF&\frz331.2\fs88\pos(1266.67,401.33)\4a&HFF&}Amy: Toko Matsudaira
-Dialogue: 2,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord100\3c&HEAF2F2&\c&HEAF2F2&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 384 448 l 354 525 1082 842 1160 749 1080 728)\3a&HFF&\frz331.2\fs88\pos(1246.67,485.33)}Madre: Mariko Miyazawa
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\c&H242424&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 384 448 l 354 525 1082 842 1160 749 1080 728)\3a&HFF&\frz331.2\fs88\pos(1246.67,485.33)\4a&HFF&}Madre: Mariko Miyazawa
-Dialogue: 2,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord100\3c&HEAF2F2&\c&HEAF2F2&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 298 560 l 189 842 973 1066 1146 832 274 482)\3a&HFF&\frz331.2\fs88\pos(1240.67,579.33)}Padre: Megumi Yoshino
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\c&H242424&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 298 560 l 189 842 973 1066 1146 832 274 482)\3a&HFF&\frz331.2\fs88\pos(1240.67,579.33)\4a&HFF&}Padre: Megumi Yoshino
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\blur0.7\bord0\c&H242424&\4c&HEAF2F2&\fade(500,0)\org(734.9,-626.6)\fry0.13\frx-0.58\an8\(m 298 560 l 189 842 973 1066 1146 832 274 482)\3a&HFF&\frz331.2\fs88\4a&HFF&\pos(1272.67,-23.33)}Cast
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\fade(300,0)\p1\c&H212120&\4c&H000000&\4a&HFF&\fscx50\fscy50\pos(442,108)}m 693.33 77.33 l 730.67 65.33 738.67 104 702.33 116
-Dialogue: 3,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\fade(300,0)\p1\c&H252424&\4c&H000000&\4a&HFF&\fscx50\fscy50\pos(642,212)}m 693.33 77.33 l 730.67 65.33 738.67 104 702.33 116
-Dialogue: 0,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\fade(300,0)\p1\c&HEAF2F1&\3c&H000000&\3a&HFF&\pos(124,286)}m 1521.6 222.4 l 1387.2 249.6 1291.2 510.4 1454.4 464
-Dialogue: 0,0:21:20.13,0:21:22.59,ReSub,,0,0,0,,{\fade(300,0)\p1\c&HEAF2F1&\3c&H000000&\3a&HFF&\pos(614,964)}m 612 100 l 156 882 890 1068 1332 742 1276 254
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{=35}{\blur1\an2\fs70\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax0.227029\fscx100.14\fscy105.25\frz-38.9102\frx1.8099\fry-1.8845\org(1099.67,1673.67)\pos(808.41,502.05)}Piccole Donne
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{=65}{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.087956\frz-21.4614\frx0.0594\fry0.7722\org(632,214)\pos(242.86,163.49)}Meg:\NRyoko Takahashi
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.087956\frz-21.4614\frx0.0594\fry0.7722\org(632,214)\pos(240.86,277.49)}Jo:\NAi Yaguchi
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{=78}{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.080609\fscx91.03\fscy92.08\frz-22.6053\frx0.8992\fry0.2174\org(632,214)\pos(1346.92,238.62)}Beth:\NMasami Niidome
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.080609\fscx91.03\fscy92.08\frz-22.6053\frx0.8992\fry0.2174\org(632,214)\pos(1334.92,364.62)}Amy:\NToko Matsudaira
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.080609\fscx91.03\fscy92.08\frz-22.6053\frx0.8992\fry0.2174\org(632,214)\pos(1322.92,496.62)}Madre:\NMariko Miyazawa
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.080609\fscx91.03\fscy92.08\frz-22.6053\frx0.8992\fry0.2174\org(632,214)\pos(1312.92,620.62)}Padre:\NMegumi Yoshino
+Dialogue: 1,0:21:20.05,0:21:22.55,Cartelli,,0,0,0,,{\blur1\an7\fs55\fade(800,0)\an8\c&H252A29&\fnArno Pro\fax-0.080609\fscx91.03\fscy92.08\frz-22.6053\frx0.8992\fry0.2174\org(632,214)\pos(1398.92,-165.38)}Cast
 Dialogue: 0,0:00:33.69,0:00:38.07,Titoli Missione,,0,0,0,,{\bord3\be1\4a&HFF&\pos(960,102)}{\fade(500,1000)\pos(968,100)\c&H5E1530&\3c&HFFFFFF&}Tradotto da Winds of Re:Sub
 Dialogue: 0,0:00:33.69,0:00:38.07,Titoli Missione,,0,0,0,,{\blur0.6\be1\c&H000000&}{\bord10\fade(500,1000)\fnBernadette\pos(954,322)\3c&HF5F4F5&\c&HF5F4F5&}Maria Watches Over Us
 Dialogue: 1,0:00:33.69,0:00:38.07,Titoli Missione,,0,0,0,,{\bord0\blur0.6\be1\4a&HFF&}{\bord0\fade(500,1000)\fnBernadette\pos(954,322)\c&H601530&}Maria Watches Over Us
 Dialogue: 0,0:00:46.00,0:00:50.21,Titoli Missione,,0,0,0,,{\fade(500,500)\bord5\fs50\pos(540,706)\4c&H000000&\3c&H0A294C&\c&HA9DAE5&}Traduzione:                  Cristofer
 Dialogue: 0,0:00:59.59,0:01:04.43,Titoli Missione,,0,0,0,,{\fade(500,500)\bord5\fs50\4c&H000000&\3c&H0A294C&\c&HA9DAE5&\pos(550,574)}Check:        Leo, PingWer, Panna
-Dialogue: 0,0:02:37.17,0:02:41.04,Titoli Missione,,0,0,0,,{\an8\c&HFF1C00&}En bouton = in fiore
-Dialogue: 0,0:02:43.11,0:02:47.08,Titoli Missione,,0,0,0,,{\an8\c&HFF1C00&}soeur = sorella
+Dialogue: 0,0:02:37.17,0:02:41.04,Titoli Missione,,0,0,0,,{\an8\c&HFFFFFF&\fnTrebuchet MS\fs60\bord5\3c&H000000&}"En bouton": in fiore
+Dialogue: 0,0:02:43.11,0:02:47.08,Titoli Missione,,0,0,0,,{\an8\c&HFFFFFF&\fnTrebuchet MS\fs60\bord5\3c&H000000&}"soeur": sorella
 Dialogue: 0,0:00:01.98,0:00:04.46,WOR,,0,0,0,,{\i1}Le fanciulle che affollano il giardino di Maria-sama,
 Dialogue: 0,0:00:04.75,0:00:09.41,WOR,,0,0,0,,{\i1}anche oggi varcano gli alti cancelli con sorrisi innocenti e angelici.
 Dialogue: 0,0:00:09.96,0:00:14.19,WOR,,0,0,0,,{\i1}I loro cuori e i loro corpi puri sono vestiti con uniformi dai colori intensi.
@@ -318,17 +308,17 @@ Dialogue: 0,0:02:10.51,0:02:13.31,WOR,,0,0,0,,{\i1}Ecco cosa è successo poco pr
 Dialogue: 0,0:02:13.75,0:02:16.74,WOR,,0,0,0,,{\i1}proprio durante la pausa pranzo dopo la fine del festival sportivo.
 Dialogue: 0,0:02:17.38,0:02:18.85,WOR,,0,0,0,,È iniziato tutto con il commento
 Dialogue: 0,0:02:18.85,0:02:21.51,WOR,,0,0,0,, della mia Onee-sama, Rosa Chinensis.
-Dialogue: 0,0:02:24.46,0:02:25.46,WOR,,0,0,0,,Ecco, quindi.
-Dialogue: 0,0:02:25.89,0:02:28.06,WOR,,0,0,0,,A proposito dello spettacolo per il festival scolastico...
-Dialogue: 0,0:02:28.06,0:02:30.83,WOR,,0,0,0,,Quest'anno interpretereremo il Torikaebaya Monogatari.{è una creatura mitologica, non so quanto abbia senso. Lo usavano per spiegare l'autismo o cose del genere}
-Dialogue: 0,0:02:35.53,0:02:36.87,WOR,,0,0,0,,Torikaebaya?
-Dialogue: 0,0:02:37.17,0:02:41.04,WOR,,0,0,0,,{\i1}A mormorarlo è stata Yoshino-san, la Rosa Foetida en bouton.
-Dialogue: 0,0:02:41.67,0:02:42.73,WOR,,0,0,0,,Oh...
-Dialogue: 0,0:02:43.11,0:02:47.08,WOR,,0,0,0,,{\i1}Le due che hanno parlato all'unisono sono soeur da soli 3 mesi.
-Dialogue: 0,0:02:47.51,0:02:50.75,WOR,,0,0,0,,{\i1}Shimako-san, la Rosa Gigantea, e la sua petite soeur, Noriko-chan.
-Dialogue: 0,0:02:51.25,0:02:52.74,WOR,,0,0,0,,In che senso "Oh"?
-Dialogue: 0,0:02:53.95,0:02:56.82,WOR,,0,0,0,,{\i1}Quella che ha posto la domanda alle sorelle della Rosa Bianca...
-Dialogue: 0,0:02:56.82,0:02:58.61,WOR,,0,0,0,,{\i1}era Rei-sama, la Rosa Foetida.
+Dialogue: 100,0:02:24.46,0:02:25.46,WOR,,0,0,0,,Ecco, quindi.
+Dialogue: 100,0:02:25.89,0:02:28.06,WOR,,0,0,0,,A proposito dello spettacolo per il festival scolastico...
+Dialogue: 100,0:02:28.06,0:02:30.83,WOR,,0,0,0,,Quest'anno interpretereremo il Torikaebaya Monogatari.{è una creatura mitologica, non so quanto abbia senso. Lo usavano per spiegare l'autismo o cose del genere}
+Dialogue: 100,0:02:35.53,0:02:36.87,WOR,,0,0,0,,Torikaebaya?
+Dialogue: 100,0:02:37.17,0:02:41.04,WOR,,0,0,0,,{\i1}A mormorarlo è stata Yoshino-san, la Rosa Foetida en bouton.
+Dialogue: 100,0:02:41.67,0:02:42.73,WOR,,0,0,0,,Oh...
+Dialogue: 100,0:02:43.11,0:02:47.08,WOR,,0,0,0,,{\i1}Le due che hanno parlato all'unisono sono soeur da soli 3 mesi.
+Dialogue: 100,0:02:47.51,0:02:50.75,WOR,,0,0,0,,{\i1}Shimako-san, la Rosa Gigantea, e la sua petite soeur, Noriko-chan.
+Dialogue: 100,0:02:51.25,0:02:52.74,WOR,,0,0,0,,In che senso "Oh"?
+Dialogue: 100,0:02:53.95,0:02:56.82,WOR,,0,0,0,,{\i1}Quella che ha posto la domanda alle sorelle della Rosa Bianca...
+Dialogue: 100,0:02:56.82,0:02:58.61,WOR,,0,0,0,,{\i1}era Rei-sama, la Rosa Foetida.
 Dialogue: 0,0:02:59.79,0:03:01.28,WOR,,0,0,0,,Cosa c'è?
 Dialogue: 0,0:03:02.53,0:03:05.53,WOR,,0,0,0,,Yumi-san, hai letto questo libro, giusto?
 Dialogue: 0,0:03:05.53,0:03:08.00,WOR,,0,0,0,,Sì, me l'ha detto la mia Onee-sama, quindi...
@@ -657,8 +647,8 @@ Dialogue: 0,0:21:03.91,0:21:06.27,WOR,,0,0,0,,Allora, andiamo di sopra?
 Dialogue: 0,0:21:06.34,0:21:07.21,WOR,,0,0,0,,Sì!
 Dialogue: 0,0:21:14.22,0:21:15.65,WOR,,0,0,0,,D'accordo!
 Dialogue: 0,0:21:16.55,0:21:18.86,WOR,,0,0,0,,{\i1}Essendo andata a scusarsi da sola,
-Dialogue: 0,0:21:18.86,0:21:20.86,WOR,,0,0,0,,{\i1}Toko-chan è stata riassegnata ad Amy senza problemi...
-Dialogue: 0,0:21:20.86,0:21:22.35,WOR,,0,0,0,,{\i1}...e la crisi fu scongiurata.
+Dialogue: 100,0:21:18.86,0:21:20.86,WOR,,0,0,0,,{\i1}Toko-chan è stata riassegnata ad Amy senza problemi...
+Dialogue: 100,0:21:20.86,0:21:22.35,WOR,,0,0,0,,{\i1}...e la crisi fu scongiurata.
 Dialogue: 0,0:21:22.93,0:21:24.16,WOR,,0,0,0,,Guarda.
 Dialogue: 0,0:21:33.77,0:21:35.33,WOR,,0,0,0,,Siamo del 2° anno, classe fiori di ciliegio!
 Dialogue: 0,0:21:35.87,0:21:39.14,WOR,,0,0,0,,Abbiamo portato il caffè e i biscotti che serviremo domani.
@@ -706,3 +696,6 @@ Data: 22,_aegi_folddata,e0;1;2
 Data: 23,_aegi_folddata,e1;1;2
 Data: 26,_aegi_folddata,e0;1;1
 Data: 27,_aegi_folddata,e1;1;1
+Data: 35,_aegi_perspective_ambient_plane,e1630.69;289.06#7C1857.56;402.35#7C1755.88;606.33#7C1530.55;484.25
+Data: 65,_aegi_perspective_ambient_plane,e275.31;819.64#7C981.67;1075.65#7C1313.64;382.04#7C629.29;110.03
+Data: 78,_aegi_perspective_ambient_plane,e939.23;227.31#7C1312.04;382.14#7C986.95;1073.49#7C600.87;910.36
