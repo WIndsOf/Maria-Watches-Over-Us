@@ -3,6 +3,9 @@
 
 *.jpg
 *.jpeg
+*.png
+
+!**/redraw/*.png
 
 **autosave_history/
 *.autosave
